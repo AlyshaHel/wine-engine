@@ -1,0 +1,1443 @@
+,WineID,WineDesc,Vintage
+0,0,Alamos Cabernet Sauvignon,2017
+1,1,Alamos Malbec,2017
+2,2,Martini & Rossi Asti Spumante,
+3,3,Joseph Drouhin Bourgogne Chardonnay Laforet,2017
+4,4,Joseph Drouhin Pouilly Fuisse,2017
+5,5,Joseph Drouhin Beaujolais Villages,2016
+6,6,Joseph Drouhin Laforet Bourgogne Pinot Noir,2017
+7,7,Nederburg Pinotage Winemaster's Reserve,
+8,8,Ravenswood Zinfandel Vintners Blend,2015
+9,9,Ravenswood Merlot Vintners Blend,2015
+10,10,Pepperwood Grove Pinot Noir,
+11,11,Pepperwood Grove Merlot,
+12,12,Smoking Loon Cabernet Sauvignon,
+13,13,Smoking Loon Merlot,
+14,14,Smoking Loon Chardonnay,
+15,15,Hess Chardonnay Monterey,2017
+16,16,Luna di Luna Pinot Grigio,
+17,17,Luna di Luna Merlot & Cabernet,
+18,18,Black Opal Chardonnay,
+19,19,Black Opal Cabernet Sauvignon,
+20,20,J Sparkling Wine,
+21,21,Cambria Chardonnay Katherine's Vineyard,2017
+22,22,Blackstone Winery Merlot,
+23,23,Yellow Tail Chardonnay,
+24,24,Yellow Tail Shiraz,
+25,25,Freixenet Cava Brut Cordon Negro,
+26,26,La Rocca Pinot Grigio,2017
+27,27,Giesen Estate Sauvignon Blanc,2018
+28,28,Francis Coppola Rosso,
+29,29,Francis Ford Coppola Diamond Collection Claret Black Label,2017
+30,30,Francis Ford Coppola Diamond Collection Merlot Blue Label,
+31,31,Francis Coppola Chardonnay Diamond Series,2017
+32,32,Cielo Pinot Grigio,2018
+33,33,Ramsay Pinot Noir,2017
+34,34,Chateau Puech Haut Cuvee Prestige Red,2015
+35,35,Excelsior Cabernet Sauvignon,
+36,36,Hunter Chaps Pinot Noir,
+37,37,King Estate Pinot Gris Oregon,2016
+38,38,Due Torri Pinot Grigio,2017
+39,39,Villa Rosa Gavi del Comune di Gavi,2017
+40,40,Beaulieu Vineyard Bv Coastal Merlot,
+41,41,Beaulieu Vineyard Bv Coastal Cabernet Sauvinon,
+42,42,Glen Ellen Chardonnay,
+43,43,Bogle Vineyards Petite Sirah,
+44,44,Bogle Vineyards Merlot,
+45,45,Bogle Vineyards Chardonnay,
+46,46,Bogle Vineyards Cabernet Sauvignon,
+47,47,Kendall Jackson Chardonnay Vintners Reserve,2017
+48,48,Kendall-Jackson Cabernet Sauvignon Vintner's Reserve,2016
+49,49,Kendall-Jackson Sauvignon Blanc Vintner's Reserve,2018
+50,50,Kendall-Jackson Merlot Vintner's Reserve,2015
+51,51,Cloudy Bay Sauvignon Blanc,2018
+52,52,Pj Valckenberg Gewurtztraminer,2017
+53,53,Dr. Loosen Dr. L Riesling,2017
+54,54,Fetzer Cabernet Sauvignon,2016
+55,55,Fetzer Riesling,
+56,56,Fetzer Sundial Chardonnay,2017
+57,57,Estancia Cabernet Sauvignon,2016
+58,58,Fontana Candida Pinot Grigio,
+59,59,Geyser Peak Sauvignon Blanc,2018
+60,60,Quinta Do Noval Port Tawny,
+61,61,Quinta Do Noval Ruby,
+62,62,Mouton Cadet Bordeaux Rouge,
+63,63,Mouton Cadet Bordeaux Blanc,
+64,64,Fonseca Bin No. 27 Finest Reserve Porto,
+65,65,Louis Jadot Beaujolais Villages,2017
+66,66,Louis Jadot Macon Villages,2016
+67,67,Louis Jadot Pouilly Fuisse,2017
+68,68,Louis Jadot Bourgogne Blanc,2017
+69,69,Korbel Brut,
+70,70,Korbel Extra Dry,
+71,71,Dancing Bull Zinfandel,
+72,72,Frei Brothers Merlot,2015
+73,73,Sutter Home White Zinfandel,
+74,74,Markham Merlot,2016
+75,75,Ecco Domani Pinot Grigio,
+76,76,Robert Mondavi Merlot Private Selection California,
+77,77,Robert Mondavi Cabernet Sauvignon,2016
+78,78,Robert Mondavi Cabernet Sauvignon Private Selection,
+79,79,Robert Mondavi Chardonnay Private Selection,
+80,80,Cavit Pinot Grigio,
+81,81,Santa Margherita Prosecco Superiore,
+82,82,Corvo Nero d'Avola Sicilia Red,2014
+83,83,Corvo Bianco,2017
+84,84,Santa Margherita Pinot Grigio Alto Adige,2018
+85,85,Markham Cabernet Sauvignon,2015
+86,86,Markham Sauvignon Blanc,2016
+87,87,Rutherford Hill Merlot,2015
+88,88,Barton & Guestier Vouvray,2017
+89,89,Sandeman Port Tawny,
+90,90,Sandeman Port Founders Reserve,
+91,91,Hartley & Gibson's Cream Sherry,
+92,92,Clos du Bois Chardonnay,
+93,93,Raymond R Collection Chardonnay,2016
+94,94,Rodney Strong Cabernet Sauvignon,2016
+95,95,Rodney Strong Chardonnay,2017
+96,96,Rodney Strong Russian River Valley Pinot Noir,2014
+97,97,Baron Herzog Chardonnay,
+98,98,Baron Herzog Cabernet Sauvignon,
+99,99,Santa Barbara Sauvignon Blanc,2016
+100,100,Ruffino Chianti,
+101,101,Ruffino Orvieto Classico,
+102,102,Ruffino Chianti Classico Riserva Ducale Tan,
+103,103,Marques de Riscal Rioja Reserva,2013
+104,104,Marques de Riscal Rueda White,2015
+105,105,Simi Cabernet Sauvignon,2016
+106,106,Simi Chardonnay Sonoma County,2018
+107,107,St. Francis Winery Zinfandel Old Vine,2016
+108,108,St. Francis Chardonnay,2016
+109,109,St. Francis Merlot,2015
+110,110,Columbia Crest Grand Estates Chardonnay,2015
+111,111,Columbia Crest Grand Estates Merlot,2014
+112,112,Two Vines Chardonnay,
+113,113,Domaine Ste. Michelle Brut,
+114,114,Domaine Ste. Michelle Extra Dry,
+115,115,Chateau Ste. Michelle Cabernet Sauvignon,2016
+116,116,Chateau Ste Michelle Merlot,2016
+117,117,Chateau Ste. Michelle Chardonnay,2017
+118,118,Chateau Ste. Michelle Columbia Valley Riesling,2016
+119,119,Chateau Ste. Michelle Sauvignon Blanc,2017
+120,120,Stag's Leap Wine Cellars Cabernet Sauvignon Artemis,2016
+121,121,Sterling Vineyards Napa Cabernet Sauvignon,2016
+122,122,Sterling Vineyards Napa Merlot,2014
+123,123,Sterling Vineyards Napa Sauvignon Blanc,2015
+124,124,Sterling Vineyards Napa Chardonnay,2015
+125,125,Sterling Vineyards Cabernet Sauvignon Vintner's Collection,2016
+126,126,Sterling Vineyards Chardonnay Vintner's Collection,2016
+127,127,Sterling Vineyards Merlot Vintner's Collection,2016
+128,128,Catena Chardonnay,2016
+129,129,J. Lohr Chardonnay Riverstone,2017
+130,130,J. Lohr Cabernet Sauvignon,2017
+131,131,Marques de Caceres Crianza,2015
+132,132,Jaboulet Parallele 45 Cotes du Rhone Rouge,2015
+133,133,Beringer Vineyards Cabernet Sauvignon Founders Estate,
+134,134,Beringer Sauvignon Blanc Founders' Estate,2016
+135,135,Beringer Vineyards White Zinfandel,
+136,136,Beringer Merlot Founders' Estate,
+137,137,Beringer Chardonnay Founders' Estate,
+138,138,Beringer Vineyards Napa Chardonnay,2017
+139,139,Beringer White Merlot Main & Vine,
+140,140,Travaglini Gattinara,2015
+141,141,Vino Dell'Arte Pinot Grigio,
+142,142,Graham's Six Grapes Port,
+143,143,Graham's 10 Year Old Tawny Port,
+144,144,Falesco Vitiano Umbria IGT,2014
+145,145,Regaleali Nero d'Avola,2016
+146,146,Chalk Hill Estate Chardonnay,2015
+147,147,Chalk Hill Sauvignon Blanc,2017
+148,148,Conundrum White,2016
+149,149,Pepperwood Grove Chardonnay,
+150,150,Hess Select Cabernet Sauvignon,2015
+151,151,Black Opal Cabernet Merlot,
+152,152,Black Opal Shiraz,
+153,153,Dry Creek Vineyard Fume Blanc,2016
+154,154,Graff Riesling Kabinett,2018
+155,155,Honig Sauvignon Blanc,2018
+156,156,Jordan Russian River Chardonnay,2016
+157,157,Robert Mondavi Winery Napa Valley Chardonnay,2015
+158,158,Sandeman Port Ruby,
+159,159,R.H. Phillips Toasted Head Chardonnay,2017
+160,160,Clos du Bois Merlot,
+161,161,Rodney Strong Merlot,2015
+162,162,Santa Barbara Chardonnay,2017
+163,163,Columbia Crest Two Vines Cabernet-Merlot,
+164,164,E. Guigal Cotes du Rhone Rouge,2015
+165,165,Yarden Cabernet Sauvignon,2015
+166,166,Louis Bernard Cotes du Rhone Village,2016
+167,167,Pepperwood Grove Cabernet Sauvignon,
+168,168,Blackstone Winery Chardonnay Monterey County,
+169,169,Yellow Tail Merlot,
+170,170,Pere Anselme Chateauneuf-Du-Pape La Fiole du Pape,NV
+171,171,Bolla Amarone della Valpolicella,2013
+172,172,Frei Brothers Cabernet Sauvignon,2015
+173,173,Hartley & Gibson's Sherry Fino,
+174,174,Silverado Napa Cabernet Sauvignon,2016
+175,175,St. Francis Cabernet Sauvignon,2016
+176,176,Eroica Riesling,2016
+177,177,Catena Malbec,2017
+178,178,Whitehall Lane Winery Napa Sauvignon Blanc,2017
+179,179,Beaulieu Vineyard Bv Coastal Pinot Noir,
+180,180,Clos du Bois Cabernet Sauvignon,
+181,181,Matanzas Creek Sauvignon Blanc Sonoma County,2017
+182,182,Robert Mondavi Private Selection Zinfandel,
+183,183,Rombauer Zinfandel,2017
+184,184,Blackstone Winery Cabernet Sauvignon,
+185,185,Kris Pinot Grigio,2018
+186,186,Emilio Moro Ribera del Duero,2016
+187,187,Hess Mount Veeder Cabernet Sauvignon,2014
+188,188,Bogle Vineyards Sauvignon Blanc,
+189,189,Robert Mondavi Pinot Noir Carneros,2015
+190,190,Robert Mondavi Sauvignon Blanc Private Selection,
+191,191,Baron Herzog Merlot,
+192,192,Catena Alta Malbec,2015
+193,193,Franciscan Napa Cabernet Sauvignon,2017
+194,194,Robert Mondavi Pinot Noir Private Selection,
+195,195,Santa Cristina Orvieto,2017
+196,196,Teal Lake Cellars Shiraz,
+197,197,E. Guigal St Joseph Rouge,2016
+198,198,San Giuseppe Pinot Grigio,2016
+199,199,Mer Soleil Chardonnay,2017
+200,200,Umberto Cesari Sangiovese Riserva,2016
+201,201,Ferrari-Carano Sonoma Fume Blanc,2018
+202,202,Elisabeth Chambellan Chateauneuf du Pape,2017
+203,203,Ravenswood Lodi Zinfandel,2014
+204,204,Carpineto Chianti Classico,2017
+205,205,Alba Vineyards Old Mill Red,
+206,206,Turning Leaf Chardonnay,
+207,207,Bartenura Pinot Grigio,2016
+208,208,Teal Lake Chardonnay,
+209,209,Bonterra Chardonnay,2016
+210,210,Seghesio Old Vines Zinfandel,2015
+211,211,Simi Sonoma Sauvignon Blanc,2016
+212,212,Craggy Range Sauvignon Blanc,2018
+213,213,Matua Sauvignon Blanc,2018
+214,214,Pine Ridge Chenin Blanc Viognier,2017
+215,215,Castle Rock Chardonnay Central Coast,2016
+216,216,Frog's Leap Zinfandel,2017
+217,217,Clos du Val Cabernet Sauvignon,2014
+218,218,Cristom Mount Jefferson Pinot Noir,2017
+219,219,Marietta Old Vines Red Lot #68,
+220,220,Etude Pinot Noir,2016
+221,221,Excelsior Chardonnay,
+222,222,Joel Gott Zinfandel,2016
+223,223,Kendall Jackson Vintner's Pinot Noir,2016
+224,224,E. Guigal Cotes du Rhone Blanc,2017
+225,225,Grahams 20 Year Old Tawny Port,
+226,226,La Crema Sonoma Coast Pinot Noir,2016
+227,227,Lamole di Lamole Chianti Classico,2016
+228,228,Melville Estate Syrah,2016
+229,229,Murphy Goode Cabernet Sauvignon,
+230,230,Danzante Pinot Grigio,2016
+231,231,Raymond R Collection Cabernet Sauvignon,2017
+232,232,Rex Hill Pinot Noir,2015
+233,233,R.H. Phillips Toasted Head Cabernet Sauvignon,2015
+234,234,Ruffino Chianti Aziano,
+235,235,Carpineto Rosso Dogajolo,2016
+236,236,Kendall-Jackson Riesling Vintner's Reserve,2016
+237,237,Chateau Ste. Michelle Chardonnay Cold Creek Vineyard,2016
+238,238,Chateau Ste. Michelle Harvest Select Riesling,2015
+239,239,St. Supery Sauvignon Blanc,2017
+240,240,Stags Leap Winery Petite Sirah,
+241,241,Clos du Bois Sauvignon Blanc,
+242,242,Domaine Ste. Michelle Brut Rose,
+243,243,Two Vines Riesling,
+244,244,Twin Islands Sauvignon Blanc,2018
+245,245,Wente Morning Fog Chardonnay,2017
+246,246,Whitehall Lane Winery Napa Cabernet Sauvignon,2015
+247,247,Yalumba Muscat Museum Reserve,
+248,248,Zenato Amarone,2015
+249,249,Frog's Leap Chardonnay,2016
+250,250,Argyle Pinot Noir Willamette Valley,2017
+251,251,Columbia Crest Two Vines Cabernet Sauvignon,
+252,252,Treana Red,2016
+253,253,Greenhough Sauvignon Blanc,2017
+254,254,Taylor Fladgate 10 Year Tawny,
+255,255,Warre's Warrior Finest Reserve Port,
+256,256,Murphy Goode Winery The Fume Sauvignon Blanc,
+257,257,Joseph Drouhin Macon Villages Chardonnay,2018
+258,258,Zenato Valpolicella Superiore Ripassa,2015
+259,259,Stag's Leap Aveta Sauvignon Blanc,2016
+260,260,Stag's Leap Winery Merlot,2016
+261,261,Rocca delle Macie Chianti Classico,2016
+262,262,Melville Estate Pinot Noir,2015
+263,263,Bartenura Moscato,2018
+264,264,Smith & Hook Cabernet Sauvignon,2016
+265,265,Simi Merlot,2016
+266,266,Rodney Strong Chalk Hill Chardonnay,2016
+267,267,Monte Antico Rosso,2014
+268,268,Cave L'Aurance Bourgogne Chardonnay,
+269,269,Cave L'Aurance Macon Village,
+270,270,Cave L'Aurance Pouilly Fuisse,
+271,271,Cave L'Aurance Saint-Veran,
+272,272,Sequoia Grove Napa Valley Cabernet Sauvignon,2016
+273,273,Grgich Hills Cellars Napa Valley Fume Blanc,2014
+274,274,Groth Sauvignon Blanc,2018
+275,275,Pacific Rim Dry Riesling,2016
+276,276,Maso Canali Pinot Grigio,2017
+277,277,Grgich Hills Cellars Napa Valley Cabernet Sauvignon,2015
+278,278,MacMurray Ranch Pinot Gris Sonoma Coast,2017
+279,279,Sterling Vintner's Meritage,2016
+280,280,Hartford Court Russian River Pinot Noir,2017
+281,281,Newton Skyside Chardonnay,2016
+282,282,Clos du Bois Pinot Noir,
+283,283,Livio Felluga Pinot Grigio,2017
+284,284,Masi Campofiorin Red,2015
+285,285,Duckhorn Decoy Red Blend,2016
+286,286,Broadbent Rainwater Madiera,
+287,287,Walter Hansel Cahill Lane Vineyard Chardonnay,2016
+288,288,Firesteed Willamette Valley Pinot Noir,2015
+289,289,Calera Central Coast Pinot Noir,2015
+290,290,Rodney Strong Charlotte's Home Sauvignon Blanc,2017
+291,291,Chateau Ste Michelle Canoe Ridge Chardonnay,2015
+292,292,Fratello Revello Barbera,2017
+293,293,Meiomi Pinot Noir,2017
+294,294,Luigi Pira Dolcetto d'Alba,2018
+295,295,Coopers Creek Sauvignon Blanc,2017
+296,296,Colosi Sicilia IGT,
+297,297,Louis M. Martini Cabernet Sauvignon Napa Valley,2016
+298,298,Oyster Bay Sauvignon Blanc,2017
+299,299,Mark West Pinot Noir California,2017
+300,300,Borsao Tres Picos Garnacha,2017
+301,301,Kendall Jackson Grand Reserve Chardonnay,2017
+302,302,Taylor Fladgate 20 Year Tawny,
+303,303,Charles de Fere Brut Reserve,
+304,304,Columbia Crest Walter Clore,2012
+305,305,Hartford Court Russian River Chardonnay,2017
+306,306,Matua Pinot Noir,2016
+307,307,Honig Napa Cabernet Sauvignon,2015
+308,308,Zenato Lugana DOC,2018
+309,309,Codice Tierra de Castilla,2016
+310,310,Don Miguel Gascon Malbec,2017
+311,311,Yellow Bird Chardonnay,
+312,312,Chateau Greysac,
+313,313,Fonseca 20 Year Tawny Port,
+314,314,Da Vinci Chianti,
+315,315,Red Truck Red,
+316,316,Herdade Do Esporao Alentejo Reguengos Reserva,2015
+317,317,Goats Do Roam Red,
+318,318,Joel Gott Cabernet Sauvignon 815,2016
+319,319,Beringer Pinot Grigio Main & Vine,
+320,320,Villa Maria Sauvignon Blanc,2017
+321,321,Joel Gott Sauvignon Blanc,2016
+322,322,Fess Parker Chardonnay,2017
+323,323,Dominio de Eguren Protocolo Tinto,2017
+324,324,Francis Coppola Diamond Collection Pinot Noir,2016
+325,325,Pascual Toso Estate Cabernet Sauvignon,2016
+326,326,Masi Bonacosta Valpolicella,2017
+327,327,Santa Silvana Pinot Grigio,2018
+328,328,Barefoot Chardonnay,
+329,329,J. Lohr Merlot Los Osos,2017
+330,330,Lapostolle Cabernet Sauvignon Cuvee Alexandre Apalta Vineyard,2016
+331,331,Groth Napa Cabernet Sauvignon,2014
+332,332,Avalon Cabernet Sauvignon Napa Valley,2016
+333,333,Mionetto Brut Prosecco,
+334,334,Lauverjat Sancerre,2018
+335,335,Annabella Sonoma Cabernet Sauvignon,2016
+336,336,Yellow Tail Cabernet Sauvignon,
+337,337,Patz & Hall Pinot Noir Sonoma Coast,2016
+338,338,Avignonesi Vino Nobile di Montepulicano,2014
+339,339,Four Vines Chardonnay,2018
+340,340,Four Vines Zinfandel,
+341,341,Walter Hansel North Slope Chardonnay,2016
+342,342,Raymond R Collection Merlot,2016
+343,343,Twenty Bench Cabernet Sauvignon,2017
+344,344,Allegrini Valpolicella Classico,2017
+345,345,Schramsberg Brut Rose,NV
+346,346,Buehler Vineyards Chardonnay,2016
+347,347,Feudi di San Gregorio Greco di Tufo,2017
+348,348,Herdade Do Esporao Branco Reserva,2017
+349,349,Ravenswood Cabernet Sauvignon Vintners Blend,2015
+350,350,Castle Rock Cabernet Sauvignon Napa County,2015
+351,351,Castle Rock Pinot Noir,2014
+352,352,Banfi Rosa Regale,
+353,353,Justin Cabernet Sauvignon,2017
+354,354,Duckhorn Napa Cabernet Sauvignon,2015
+355,355,La Scolca White Label Gavi,2018
+356,356,Louis M. Martini Cabernet Sauvignon Sonoma County,2016
+357,357,Antinori Chianti Classico Peppoli,2016
+358,358,Benton Lane Willamette Valley Pinot Noir,2014
+359,359,Edmeades Mendocino Zinfandel,2014
+360,360,Erath Winery Pinot Noir,2017
+361,361,Chappellet Mountain Cuvee Proprietor's Blend,2017
+362,362,Trimbach Pinot Gris Reserve,
+363,363,Barefoot Sauvignon Blanc,
+364,364,Zaccagnini Dal Tralcetto Bianco,2016
+365,365,Lanessan Haut Medoc Bordeaux,2015
+366,366,Monkey Bay Sauvignon Blanc,2016
+367,367,Yellow Tail Pinot Grigio,
+368,368,Mcmanis Chardonnay,
+369,369,Barefoot Cabernet Sauvignon,
+370,370,Barefoot Merlot,
+371,371,Mud House Sauvignon Blanc,2018
+372,372,Summers Cabernet Sauvignon Andriana's Cuvee,2016
+373,373,Bogle Vineyards Pinot Noir,
+374,374,Barefoot White Zinfandel,
+375,375,Oberon Cabernet Sauvignon,2017
+376,376,Cliff Lede Napa Valley Sauvignon Blanc,2017
+377,377,Cortijo Rioja Tinto,2016
+378,378,Mcmanis Cabernet Sauvignon,2017
+379,379,Rocca delle Macie Chianti Classico Riserva Zingarelli,2015
+380,380,Martin Codax Rias Baixas Albarino,2016
+381,381,Tosca Pinot Grigio,
+382,382,Adelsheim Pinot Noir,2018
+383,383,Red Diamond Shiraz,
+384,384,Cherry Hill Pinot Noir,2015
+385,385,Bonterra Cabernet Sauvignon,2017
+386,386,Lecciaia Rosso di Montalcino,2015
+387,387,Terra de Lobos Red,
+388,388,Stuhlmuller Alexander Valley Cabernet Sauvignon,2015
+389,389,Cloudline Pinot Noir,2017
+390,390,Domaine Drouhin Pinot Noir,2015
+391,391,Fleur de California Pinot Noir,2016
+392,392,Burgans Albarino,2018
+393,393,Barefoot Bubbly Pinot Grigio,
+394,394,Ghost Pines Cabernet Sauvignon,2016
+395,395,Paul Hobbs Crossbarn Cabernet Sauvignon,2015
+396,396,Duckhorn Sauvignon Blanc,2018
+397,397,Bonterra Merlot,2016
+398,398,Roth Alexander Valley Cabernet Sauvignon,2016
+399,399,Altanuta Pinot Grigio,2015
+400,400,Noon Eclipse,2016
+401,401,Luigi Righetti Amarone,2014
+402,402,Sterling Vineyards Pinot Noir Vintner's Collection,2015
+403,403,Menage A Trois White Wine,
+404,404,"Montgomery ""M"" Chardonnay",
+405,405,Mcmanis Merlot,
+406,406,Bucaro Montepulciano d'Abruzzo,
+407,407,Frederic Esmonin Clos Prieur,2017
+408,408,Luce della Vita Lucente,2015
+409,409,Ferrari-Carano Cabernet Sauvignon,2015
+410,410,Mocali Rosso di Montalcino,2014
+411,411,Amancaya Grand Reserve Malbec-Cabernet Sauvignon,2016
+412,412,Weingut Fritz Windisch Heimersheimer Rotenfels Dornfelder,2017
+413,413,Wente Southern Hills Cabernet Sauvignon,2016
+414,414,Murrieta's Well The Spur,2016
+415,415,Little Black Dress Merlot,
+416,416,Earthquake Zinfandel,2015
+417,417,Sileni Sauvignon Blanc Cellar Selection,2017
+418,418,Mer Soleil Silver Unoaked Chardonnay,2016
+419,419,Foradori Granato,2016
+420,420,Lucien Albrecht Cremant Rose,NV
+421,421,Hall Napa Valley Cabernet Sauvignon,2015
+422,422,Deloach Russian River Chardonnay,2016
+423,423,Frog's Leap Sauvignon Blanc,2017
+424,424,Seghesio Sonoma Zinfandel,2017
+425,425,Bogle Vineyards Zinfandel Old Vines,
+426,426,Edna Valley Vineyard Chardonnay,2017
+427,427,Arrowood Cabernet Sauvignon,2016
+428,428,Robert Mondavi Cabernet Sauvignon Oakville,2014
+429,429,La Vieille Ferme Rouge,
+430,430,Stags' Leap Winery Chardonnay,2017
+431,431,Sonoma Cutrer Estate Cutrer Chardonnay,2016
+432,432,Boutinot Cotes du Rhone Village,2015
+433,433,La Scolca Gavi di Gavi Black Label,2016
+434,434,Marques de Murrieta Rioja Reserva,2014
+435,435,Zaccagnini Montepulciano d'Abruzzo,2016
+436,436,Chateau Maris La Touge,2016
+437,437,Deloach Central Coast Chardonnay,2017
+438,438,Flowers Sonoma Chardonnay,2016
+439,439,Flowers Sonoma Pinot Noir,2017
+440,440,Tommasi Amarone della Valpolicella Classico,2015
+441,441,Chateau Ste. Michelle Horse Heaven Vineyard Sauvignon Blanc,2017
+442,442,Kim Crawford Sauvignon Blanc Marlborough,2018
+443,443,Ramey Chardonnay Russian River Valley,2016
+444,444,Gruet Brut,
+445,445,Matanzas Creek Sonoma Chardonnay,2016
+446,446,Yalumba Chardonnay Unwooded The Y Series,
+447,447,Chateau Ste. Michelle Merlot Indian Wells,2016
+448,448,Chateau Ste. Michelle Chardonnay Indian Wells,2016
+449,449,Chateau Ste Michelle Canoe Ridge Cabernet Sauvignon,2015
+450,450,Justin Isosceles,2015
+451,451,Macmurray Central Coast Pinot Noir,2016
+452,452,Raymond Napa Chardonnay,2016
+453,453,Menage A Trois Red,
+454,454,Macrostie Chardonnay,2016
+455,455,Beaulieu Vineyard Bv Coastal Chardonnay,
+456,456,Schramsberg Blanc de Blanc,
+457,457,Cellar No. 8 Cabernet Sauvignon,
+458,458,Mirassou Winery Cabernet Sauvignon,
+459,459,Mirassou Winery Chardonnay,
+460,460,Mirassou Winery Pinot Noir,
+461,461,Mirassou Winery Merlot,
+462,462,Jim Barry The Lodge Hill Shiraz,2014
+463,463,Zenato Valpolicella Superiore,2016
+464,464,Casa Castillo Monastrell,2016
+465,465,El Coto Rioja Crianza,2015
+466,466,Villa Puccini Pinot Grigio,2017
+467,467,Sbragia Home Ranch Chardonnay,2016
+468,468,Charles de Fere Brut Rose,NV
+469,469,"Montgomery ""M"" Cabernet Sauvignon",
+470,470,Avalon Cabernet Sauvignon California,2016
+471,471,Alba Vineyards Red Raspberry,
+472,472,Dr Frank Semi Dry Riesling,2016
+473,473,Feudi di San Gregorio Falanghina,2017
+474,474,Murphy-Goode Merlot,
+475,475,Magnificent Wine Co. House Wine,
+476,476,Tiefenbrunner Pinot Grigio,2018
+477,477,Red Diamond Cabernet Sauvignon,
+478,478,Red Diamond Merlot,
+479,479,Spy Valley Sauvignon Blanc,2018
+480,480,Tait The Ball Buster Red,2015
+481,481,Sterling Vintner's Sauvignon Blanc,2015
+482,482,Remelluri Rioja Reserva,2012
+483,483,A To Z Pinot Noir,2015
+484,484,Smoking Loon Pinot Noir,
+485,485,Blackhawk Merlot,
+486,486,Rengo Amarone,2015
+487,487,Brewer Clifton Santa Rita Hills Pinot Noir,2016
+488,488,Novellum Chardonnay,2017
+489,489,Mollydooker Boxer Shiraz,2017
+490,490,Mollydooker Maitre'D,2017
+491,491,Mollydooker Two Left Feet,2017
+492,492,Bodegas Lan Crianza Rioja,2013
+493,493,Gnarly Head Zinfandel Old Vine,2016
+494,494,Peirano Estate Vineyards Cabernet Sauvignon,2016
+495,495,Cellar Can Blau Can Blau,2015
+496,496,Schild Shiraz,2017
+497,497,Barefoot Pinot Grigio,
+498,498,Chateau Thivin Cote de Brouilly,2018
+499,499,Aquinas Pinot Noir,2016
+500,500,Belle Glos Clark & Telephone Pinot Noir,2016
+501,501,Gary Farrell Russian River Pinot Noir,2016
+502,502,Mark West Chardonnay,
+503,503,Madone Beaujolais Villages le Perreon,2018
+504,504,Masi Masianco Pinot Grigio,2016
+505,505,Sonoma Cutrer Estate Sonoma Coast Chardonnay,2016
+506,506,Oyster Bay Chardonnay,
+507,507,Clos de la Roilette Fleurie,2018
+508,508,Mommy's Time Out White,
+509,509,The Four Graces Pinot Noir Willamette Valley,2017
+510,510,Foxglove Chardonnay,2017
+511,511,Root 1 Cabernet Sauvignon,2017
+512,512,Tikal Patriota,2016
+513,513,Yellow Bird Cabernet Sauvignon,
+514,514,Yellow Bird Shiraz,
+515,515,Alba Vineyards Riesling,2015
+516,516,Bodegas Alto Moncayo Veraton,2016
+517,517,Cesari Valpolicella Superiore Ripasso Mara,2016
+518,518,Faust Cabernet Sauvignon,2016
+519,519,The Prisoner Napa Red Blend,2017
+520,520,Santa Julia Cabernet Sauvignon Reserva,2017
+521,521,Santa Julia Malbec Reserva,2017
+522,522,Zuccardi Q Malbec,2016
+523,523,Yves Martin Sancerre Chavignol,2018
+524,524,Wild Goose Russian River Chardonnay,2017
+525,525,Atteca Calatayud,2015
+526,526,Bodegas Muga Seleccion Especial,2014
+527,527,Stonestreet Estate Chardonnay,2016
+528,528,Delhommeau Muscadet St Vincent,2016
+529,529,Fog Bank Cabernet Sauvignon,
+530,530,Fog Bank Chardonnay,
+531,531,Mondavi Private Selection Meritage Red Blend,
+532,532,La Spinetta Barbera d'Asti Ca di Pian,2015
+533,533,Snowden Cabernet Sauvignon The Ranch,2015
+534,534,Zuccardi Malamado Malbec Port,
+535,535,Tosca Prosecco,NV
+536,536,The Show Cabernet Sauvignon,2017
+537,537,Erath Pinot Gris,2015
+538,538,Croft Distinction Reserve Porto,
+539,539,Michael David Zinfandel Old Vine The Seven Deadly Zins,2016
+540,540,Annabella Napa Valley Chardonnay,2016
+541,541,Tosca Chianti Riserva,
+542,542,Gazela Vinho Verde,
+543,543,Gnarly Head Cabernet Sauvignon,
+544,544,Kangarilla Road Cabernet Sauvignon,2016
+545,545,Nautlus Sauvignon Blanc,2018
+546,546,Diseno Old Vines Malbec,2017
+547,547,Red Rock Merlot Reserve,2015
+548,548,Ruffino Toscana Il Ducale,2014
+549,549,Talley Arroyo Chardonnay,2016
+550,550,Columbia Crest H3 Horse Haven Hills Merlot,2014
+551,551,Baileyana Firepeak Chardonnay,2015
+552,552,Renato Ratti Nebbiolo,2016
+553,553,Palacios Petalos del Bierzo,2017
+554,554,Zuccardi Serie A Malbec,2017
+555,555,Bodegas Muga Rioja Reserva,2015
+556,556,e Pira Dolcetto d'Alba,2017
+557,557,Schmitt Sohne Relax Riesling,2017
+558,558,Orin Swift Papillon,2016
+559,559,Deloach Central Coast Pinot Noir,2018
+560,560,Tour de Luchey Bordeaux,
+561,561,Paul Hobbs Crossbarn Chardonnay,2017
+562,562,Volver La Mancha Single Vineyard,2016
+563,563,Coto de Imaz Gran Reserva Rioja,2012
+564,564,337 Cabernet Sauvignon,
+565,565,Dashwood Pinot Noir,2017
+566,566,Smythe & Renfield Chardonnay,
+567,567,Smythe & Renfield Marlborough Sauvignon Blanc,2018
+568,568,Smythe & Renfield Pinot Noir,2014
+569,569,Olivier Leflaive Bourgogne Blanc Les Setilles,2017
+570,570,Mcmanis Petite Sirah,
+571,571,Layer Cake Malbec,2015
+572,572,Altocedro Ano Cero Malbec,2015
+573,573,Urbans Riesling,2016
+574,574,Cave L'Aurance Cremant de Bourgogne Brut,NV
+575,575,Nugan Third Generation Cabernet Sauvignon,2017
+576,576,Chateau Ste. Michelle Dry Riesling,2016
+577,577,Durigutti Bonarda,2017
+578,578,Fado Portugese White,
+579,579,Fonseca 10 Year Tawny Port,
+580,580,Francis Coppola Diamond Label Cabernet Sauvignon,
+581,581,Valderiz Ribera del Duero,2016
+582,582,Bramblewood Zinfandel,
+583,583,Charles Smith Columbia Valley Cabernet Sauvignon,2015
+584,584,The Crusher Petite Sirah,2016
+585,585,Layer Cake Primitivo,2013
+586,586,La Marca Prosecco,NV
+587,587,Barefoot Moscato,
+588,588,Irony Monterey Pinot Noir,2017
+589,589,Korbel Sweet Rose,
+590,590,Frei Brothers Zinfandel,2015
+591,591,Frei Brothers Sauvignon Blanc,2015
+592,592,Morisfarms Morellino di Scansano,2016
+593,593,Seaglass Sauvignon Blanc,2015
+594,594,Barefoot Pinot Noir,
+595,595,Beringer Moscato,
+596,596,New Age White Wine,
+597,597,Grey Stack Rosemary's Block Sauvignon Blanc,2017
+598,598,Tommasi Rompicollo,2016
+599,599,Waterbrook Chardonnay,2017
+600,600,Domaine Cabirau Cotes du Roussillon,2017
+601,601,Ruffino Chianti Superiore,
+602,602,Les Lys Vouvray Chenin Blanc,2017
+603,603,Da Vinci Pinot Grigio,
+604,604,Chateau Vrai Caillou Bordeaux Blanc,
+605,605,Brazin Old Vine Lodi Zinfandel,
+606,606,Hart & Mcgarry Reserve Cabernet Sauvignon,2016
+607,607,Hart & Mcgarry Reserve Chardonnay,2017
+608,608,Black Pearl Oro,2016
+609,609,Pazo de Senorans Albarino,2017
+610,610,Picq Chablis,2018
+611,611,Barefoot Riesling,
+612,612,Cupcake Sauvignon Blanc,
+613,613,Peirano Estate Vineyards Petite Sirah,2017
+614,614,Peirano Estate Vineyards 'The Other' Red Wine,2014
+615,615,181 Lodi Merlot,2016
+616,616,Primarius Pinot Noir,2017
+617,617,Johnson Family Sonoma Coast Pinot Noir,2017
+618,618,Baron de Seillac Brut Blanc de Blancs,NV
+619,619,Baron de Seillac Brut Rose,NV
+620,620,Belle Glos Las Alturas Pinot Noir,2016
+621,621,Cupcake Merlot,
+622,622,Cupcake Chardonnay,
+623,623,Rengo Ripasso,2015
+624,624,Cupcake Cabernet Sauvignon,
+625,625,Mendel Malbec,2015
+626,626,Cellar No. 8 California Pinot Noir,
+627,627,Renato Ratti Barbera,2016
+628,628,Santa Julia Brut Rose Sparkling,NV
+629,629,Kono Marlborough Sauvignon Blanc,2018
+630,630,Ciconia Alentejano Red,
+631,631,Gary Farrell Russian River Chardonnay,2016
+632,632,Angeline Pinot Noir,2017
+633,633,Little Black Dress Cabernet Sauvignon,
+634,634,Alta Vista Classic Malbec,2018
+635,635,Telegramme Chateauneuf du Pape,2016
+636,636,Gnarly Head Pinot Noir,
+637,637,Dunham Trutina Red Blend,2016
+638,638,Pacific Rim Sweet Riesling,2016
+639,639,Quinta Do Cabriz Dao Red,2016
+640,640,Zestos Old Vines Garnacha,2016
+641,641,Seaglass Riesling,2017
+642,642,Stuhlmuller Alexander Valley Chardonnay,2016
+643,643,Casa Santos Lab Red,2016
+644,644,Santa Cristina Chianti Superiore,2016
+645,645,Santa Cristina Pinot Grigio,
+646,646,Monte de Cal Reserva Red,2015
+647,647,Duckhorn Napa Merlot,2016
+648,648,Frank Family Vineyards Zinfandel,2016
+649,649,Dr Frank Pinot Gris,2016
+650,650,Dr Frank Gewurztraminer,2016
+651,651,Marchesi di Barolo Gavi,2016
+652,652,Cupcake Pinot Grigio,
+653,653,Joel Gott Chardonnay,2016
+654,654,Volpi Moscato,
+655,655,Chalk Hill Estate Red Blend,2015
+656,656,Zaccagnini Pinot Grigio,2017
+657,657,Apothic Red Winemaker's Blend,
+658,658,1865 Single Vineyard Cabernet Sauvignon,2017
+659,659,Tosca Toscana Rosso,
+660,660,Rare Vineyards Malbec,
+661,661,Merry Edwards Sauvignon Blanc,2017
+662,662,Irony North Coast Cabernet Sauvingon,2015
+663,663,Leese-Fitch Cabernet Sauvignon,
+664,664,Carm Douro Reserva Red,2015
+665,665,Jordan Cabernet Sauvignon,2015
+666,666,Charles Smith Kung Fu Girl Riesling,2017
+667,667,14 Hands Winery Hot To Trot Red,2015
+668,668,Gnarly Head Chardonnay,
+669,669,Cucao Reserve Cabernet Sauvignon,2014
+670,670,Caposaldo Moscato,
+671,671,Gruet Blanc de Noir,
+672,672,14 Hands Winery Cabernet Sauvignon,2016
+673,673,Fog Bank Pinot Noir,
+674,674,Ghost Pines Merlot,2014
+675,675,Jam Jar Sweet Shiraz,2017
+676,676,Baron Zett Mosel Riesling,2017
+677,677,Waterbrook Reserve Merlot,2014
+678,678,Black Slate Porrera Priorat,2015
+679,679,Columbia Crest H3 Les Chevaux Red,2014
+680,680,Duckhorn Decoy Cabernet Sauvignon,2016
+681,681,Cucake Red Velvet,
+682,682,Wente Sandstone Merlot,
+683,683,Basciano Rufina Chianti,2016
+684,684,Bastianich Friulano,2017
+685,685,Raymond R Collection Field Blend,2017
+686,686,Hussonet Gran Reserva Cabernet Sauvignon,2014
+687,687,14 Hands Winery Merlot,2015
+688,688,Duckhorn Decoy Chardonnay,2018
+689,689,Sweet Bliss Sweet Red Wine,
+690,690,Roagna Dolcetto,2017
+691,691,Marques de Riscal Proximo Rioja,2015
+692,692,Michael David Petite Petit,2016
+693,693,Kendall Jackson Avant Chardonnay,2015
+694,694,Baron Herzog Pinot Grigio,
+695,695,Educated Guess Cabernet Sauvignon,2016
+696,696,Columbia Crest Red Blend,2014
+697,697,Santa Silvana Chianti Classico,2014
+698,698,Ruffino Prosecco,NV
+699,699,Peirano Merlot,2016
+700,700,Chapelle Saint Victor Provence Rose,2018
+701,701,Cupcake Moscato,
+702,702,Cupcake Pinot Noir,
+703,703,Duckhorn Decoy Merlot,2017
+704,704,Gnarly Head Merlot,
+705,705,Beach House Sauvignon Blanc,
+706,706,Brewer Clifton Santa Rita Hills Chardonnay,2016
+707,707,Banfi Centine Rosso,2016
+708,708,Chono Single Vineyard Cabernet Sauvignon,2015
+709,709,Peirano Estate Vineyards 'The Other' White Wine,2014
+710,710,Twisted Cabernet Sauvignon,
+711,711,Jules Taylor Sauvignon Blanc,2018
+712,712,Red Rock Winemakers Blend,2014
+713,713,Warwick Valley Black Dirt Red,
+714,714,Tenuta di Salviano Turlo,2013
+715,715,Monsanto Chianti Classico Riserva,2015
+716,716,Dr. Karl Mosel Riesling,2017
+717,717,Palacios Camins del Priorat,2017
+718,718,Yellow Tail Moscato,
+719,719,Whispering Angel Rose,2018
+720,720,Volpi Ballerina Barbera,
+721,721,Layer Cake Cabernet Sauvignon,2016
+722,722,Tikal Natural,2015
+723,723,Gnarly Head Authentic Red,
+724,724,Gnarly Head Pinot Grigio,
+725,725,Fado Portugese Red,
+726,726,La Serena Toscana Rosso,2015
+727,727,Chateau Ducasse Bordeaux Blanc,2017
+728,728,Charles Smith Velvet Devil Merlot,2016
+729,729,Block Nine Pinot Noir,2018
+730,730,Pacific Rim Columbia Valley Riesling,2018
+731,731,Domenico Clerico Barbera Trevigne,2015
+732,732,Bussola Amarone,2013
+733,733,446 Monterey Chardonnay,
+734,734,667 Monterey Pinot Noir,
+735,735,Hess Allomi Cabernet Sauvignon,2015
+736,736,Conundrum Red Blend,2015
+737,737,Cercius Cotes du Rhone,2016
+738,738,Collelceto Brunello di Montalcino,2013
+739,739,Trentadue Old Patch Red,2016
+740,740,Cupcake Prosecco,NV
+741,741,Hand Craft Cabernet Sauvignon,
+742,742,Hand Craft Chardonnay,
+743,743,Hand Craft Pinot Noir,
+744,744,Hand Craft Petite Sirah,
+745,745,Domaine des Billards Saint Amour,2017
+746,746,The Pinot Project Pinot Noir,2018
+747,747,Reguengos Alentejo Red,2016
+748,748,Wente Riva Ranch Chardonnay,2017
+749,749,Dreaming Tree Crush Red,2016
+750,750,Black Stallion Napa Valley Cabernet Sauvignon,2016
+751,751,Bonterra Sauvignon Blanc,2016
+752,752,Waterbrook Reserve Cabernet Sauvignon,2014
+753,753,Peirano Old Vines Zinfandel,2015
+754,754,La Rioja Alta Vina Ardanza,2009
+755,755,Tololo Sauvignon Blanc,2017
+756,756,Apothic White Winemaker's Blend,
+757,757,Berroia Txacoli Berroja,2017
+758,758,Bon Ami Bordeaux,2016
+759,759,Blason du Rhone Cotes du Rhone,
+760,760,14 Hands Winery Chardonnay,2014
+761,761,Edna Valley Winery Sauvignon Blanc,2016
+762,762,Ghost Pines Red Blend,2015
+763,763,Duckhorn Decoy Zinfandel,2016
+764,764,Juan Gil Moscatel,2017
+765,765,Barefoot Red Moscato,
+766,766,Josh Cabernet Sauvignon,
+767,767,Po de Poeira Douro Red,2017
+768,768,Tosca Sparkling Rose,NV
+769,769,Tosca Moscato,NV
+770,770,Perimeter Red Blend,
+771,771,Perimeter Merlot,
+772,772,Skinny Girl White Wine,
+773,773,Faiveley Bourgogne Rouge,2016
+774,774,Dreaming Tree Cabernet Sauvignon,2017
+775,775,Lopez de Heredia Vina Cubillo,2010
+776,776,Domaine Gueneau Sancerre Blanc,2018
+777,777,Wente Charles Wentmore Cabernet Sauvignon,2015
+778,778,Twisted Chardonnay,
+779,779,Twisted Pinot Grigio,
+780,780,Twisted Moscato,
+781,781,Twisted Zinfandel,
+782,782,Pine Ridge Napa Cabernet Sauvignon,2016
+783,783,Feudi di San Gregorio Fiano Avellino,2016
+784,784,Rengo Valpolicella Classico,
+785,785,Dreaming Tree Chardonnay,2017
+786,786,Vina Alberdi Rioja Reserva,2013
+787,787,Corte Massima Prosecco Extra Dry,NV
+788,788,Irony Chardonnay,2016
+789,789,Ravenswood Vintners Blend Petite Sirah,2015
+790,790,Barefoot Pink Moscato,
+791,791,Chateau Bord Cotes du Rhone Laudun,2016
+792,792,Fat Barrel Cabernet Shiraz,2016
+793,793,Fat Barrel Sauvignon Blanc,2018
+794,794,Red Diamond Pinot Noir,
+795,795,Bodegas Ateca Honoro Vera,2015
+796,796,Bluker Spatlese Riesling,2017
+797,797,Black Stallion Napa Valley Chardonnay,2017
+798,798,Lopez de Heredia Tondonia Reserva,2006
+799,799,Perrin Luberon Blanc,2018
+800,800,Perrin Ventoux Rouge,2018
+801,801,Smoking Loon Steel Bird Chardonnay,
+802,802,Riffault Sancerre Chailloux,2017
+803,803,Cross Springs Cabernet Sauvignon,2018
+804,804,Izadi Rioja Reserva,2014
+805,805,Josh Chardonnay,
+806,806,Dr Frank Chardonnay,2014
+807,807,The Crusher Red Blend,2015
+808,808,Koferer Kerner Valle Isarco,2017
+809,809,Jean-Marc Lafage Bastide Miraflors,2016
+810,810,Wachau Gruner Veltliner,2018
+811,811,Chateau Saint Roch Kerbuccio,2016
+812,812,Seven Sinners Old Vines Petite Sirah,2015
+813,813,Black Kite Kite's Rest Pinot Noir,2014
+814,814,Sottimano Pairolero Barbera,2016
+815,815,Gruet Blanc de Blanc,
+816,816,Duckhorn Decoy Pinot Noir,2017
+817,817,1 Red Blend Black,2016
+818,818,242 Sauvignon Blanc,
+819,819,Janasse Terre d'Argile Cotes du Rhone,2014
+820,820,Anjos Vinho Verde,2018
+821,821,La Crema Pinot Gris,2017
+822,822,Lauverjat Perle Blanche Sancerre,2018
+823,823,Dog Point Sauvignon Blanc,2017
+824,824,Alfredo Roca Chardonnay,2017
+825,825,Cave L'Aurance Cremant de Bourgogne Brut Rose,NV
+826,826,La Fleur de Lys Macon Villages Chardonnay,
+827,827,Stoller Dundee Hills Pinot Noir,2017
+828,828,Julia James Pinot Noir,2017
+829,829,Auspicion Cabernet Sauvignon,2017
+830,830,Auspicion Chardonnay,2015
+831,831,Fess Parker Big Easy,2016
+832,832,Bogle Essential Red,
+833,833,Yellow Tail Pink Moscato,
+834,834,Jean Noel Haton Brut Rose,NV
+835,835,Laila Verdicchio,2017
+836,836,Stonestreet Estate Alexander Valley Cabernet Sauvignon,2016
+837,837,Perimeter Riesling,
+838,838,Nieto Benjamin Malbec,2018
+839,839,Daou Cabernet Sauvignon,2017
+840,840,Juan Gil Blue Label,2016
+841,841,Cross Springs Chardonnay,2018
+842,842,Rive Droite Rive Gauche Cotes du Rhone,2017
+843,843,Corte Orsini Toscana Rosso,2013
+844,844,Foxglove Zinfandel,2014
+845,845,Morgan Highland Chardonnay,2017
+846,846,Underwood Pinot Noir,2017
+847,847,High Valley Cabernet Sauvignon,2016
+848,848,High Valley Zinfandel,2017
+849,849,19 Crimes Red Blend,
+850,850,Triton Tridente Tempranillo,2015
+851,851,Mondavi Private Selection Heritage Red Blend,
+852,852,Comoloco Monastrell Jumilla,2017
+853,853,Casa Castillo El Molar,2017
+854,854,Rare Vineyards Sauvignon Blanc,
+855,855,Apothic Dark Winemaker's Blend,
+856,856,Perimeter Cabernet Sauvignon,
+857,857,Mas Vida Cava Brut,NV
+858,858,Chateau Beausejour Bordeaux,2017
+859,859,Smoking Loon Loonatic Red,
+860,860,Manallino Pinot Grigio,2017
+861,861,Pedra Cancela Red,2016
+862,862,Luca Grucci Pinot Grigio,2017
+863,863,Carnivor Cabernet Sauvignon,2016
+864,864,Greywacke Sauvignon Blanc,2018
+865,865,Atalaya Laya,2018
+866,866,Mas de Leda Tempranillo,2016
+867,867,Cune Rioja Crianza,2015
+868,868,Bread & Butter Chardonnay,2017
+869,869,Vietti Perbacco Nebbiolo,2016
+870,870,Belle Ambiance Cabernet Sauvignon,
+871,871,Belle Ambiance Chardonnay,
+872,872,Belle Ambiance Pinot Grigio,
+873,873,Belle Ambiance Dark,
+874,874,Belle Ambiance Pinot Noir,
+875,875,Nisia Rueda Verdejo,2014
+876,876,Botani Sparkling Muscat,
+877,877,Hitching Post Cork Dancer Pinot Noir,2016
+878,878,Mark Ryan The Dissident Red,2017
+879,879,Leese-Fitch Pinot Noir,
+880,880,Chalk Hill Sonoma Coast Chardonnay,2017
+881,881,Lopez de Haro Crianza Rioja,2016
+882,882,Santa Rita Triple C,2014
+883,883,Villacreces Pruno Ribera del Duero,2016
+884,884,Les Darons Languedoc Red,2017
+885,885,Giacomo Mori Chiani,2015
+886,886,Bousquet Reserve Cabernet Sauvignon,2017
+887,887,New York Yankees Cabernet Sauvignon,
+888,888,Izadi Rose,2018
+889,889,1865 Single Vineyard Carmenere,2015
+890,890,Callejon del Crimen Gran Reserve Petit Verdot,2015
+891,891,Mendoza Vineyards Gran Reserva Malbec,2013
+892,892,Marquis de Arienzo Crianza Rioja,2015
+893,893,Chalk Hill Wits End Luna Shiraz,2017
+894,894,Columbia Crest H3 Sauvignon Blanc,2015
+895,895,Meiomi Chardonnay,2017
+896,896,Michael David Freakshow,2016
+897,897,Quintay Clava Sauvignon Blanc,2018
+898,898,Duckhorn Decoy Sauvignon Blanc,2017
+899,899,Beaurenard Rasteau,2016
+900,900,Matetic EQ Sauvignon Blanc,2018
+901,901,Ritual Pinot Noir,2016
+902,902,Il Tauro Salice Salentino Riserva,2015
+903,903,Hahn Santa Lucia Highlands Pinot Noir,2016
+904,904,The Calling Dutton Ranch Chardonnay,2016
+905,905,Gini Soave La Frosca,2015
+906,906,Gnarly Head Authentic Black,
+907,907,Menage A Trios Midnight,
+908,908,Racine Pinot Noir,2017
+909,909,Ottosoldi Gavi di Gavi,2018
+910,910,La Crema Willamette Pinot Noir,2017
+911,911,Maquis Cabernet Sauvignon,2015
+912,912,Corte Corsano Chianti Classico,2016
+913,913,Chateau Vrai Caillou Bordeaux,2015
+914,914,Melville Estate Chardonnay,2016
+915,915,Arrowflite North Coast Chardonnay,2016
+916,916,Au Contraire Sonoma Coast Pinot Noir,2013
+917,917,Domaine de Bila Haut Occultum,2015
+918,918,Kentia Albarino,2017
+919,919,Lafond Santa Rita Hills Pinot Noir,2016
+920,920,Motte Maucort Bordeaux,2016
+921,921,Bousquet Gaia Red Blend,2015
+922,922,Noemia A Lisa Malbec Blend,2016
+923,923,Confidencial Reserva Red,2015
+924,924,Hunter Chaps Cabernet Sauvignon,2017
+925,925,Hunter Chaps Chardonnay,2015
+926,926,Tommasi Poggio Al Tufo Cabernet Sauvignon,2016
+927,927,Apothic Crush,
+928,928,Orin Swift Abstract,2017
+929,929,Dark Horse Chardonnay,
+930,930,Las Huertas Cabernet Sauvignon,2017
+931,931,William Hill North Coast Cabernet Sauvignon,2014
+932,932,La Antigua Rioja Reserva,2010
+933,933,Dreaming Tree Pinot Noir,2016
+934,934,Morgan Cotes du Crow's Red,2017
+935,935,Andrew Murray Tous Les Jours Syrah,2015
+936,936,Manutara Desafio Cabernet Sauvignon,2013
+937,937,Chateau Puycarpin Bordeaux,2015
+938,938,Domaine Gueneau Sancerre Rose,2018
+939,939,Castellani Ziobaffa Rosso,2013
+940,940,Lofthouse Marlborough Sauvignon Blanc,2018
+941,941,Alma de Los Andes Malbec Reserva,2013
+942,942,Duckhorn Canvasback Cabernet Sauvignon,2015
+943,943,Mendoza Vineyards 1907 Malbec,2017
+944,944,Marques de Riscal Sauvignon Blanc,2017
+945,945,Dark Horse Red Blend,
+946,946,Lafond Santa Rita Hills Chardonnay,2017
+947,947,Jean Noel Haton Brut Reserve,NV
+948,948,Leese-Fitch Chardonnay,
+949,949,Este Vinho Verde,
+950,950,Perimeter Chardonnay,
+951,951,Fog Bank Pinot Grigio,
+952,952,Encore Cabernet Sauvignon,2017
+953,953,Josh Legacy Red,
+954,954,Carm Bispado Red,2014
+955,955,14 Hands Sauvignon Blanc,
+956,956,Storico Pinot Grigio,2017
+957,957,La Calonica Rosso di Montepulciano,2017
+958,958,La Calonica Vino Nobile di Montepulciano,2015
+959,959,Durigutti Cabernet Franc,2017
+960,960,Ferrari-Carano Reserve Cabernet Sauvignon,2013
+961,961,Dark Horse Cabernet Sauvignon,
+962,962,Dark Horse Merlot,
+963,963,Boisset Bourgogne Rouge,2017
+964,964,Chono Single Vineyard Carmenere,2017
+965,965,Marietta Christo Red,2015
+966,966,Alba Vineyards Dry Riesling,2015
+967,967,Jack's House Cabernet Sauvignon,
+968,968,Bread & Butter Pinot Noir,2017
+969,969,Domaine Gueguen Chablis,2018
+970,970,Claremont Cabernet Sauvignon,2017
+971,971,Long Barn Chardonnay,2017
+972,972,Long Barn Pinot Noir,2017
+973,973,Kendall Jackson Pinot Gris,
+974,974,Laplace Madiran,2015
+975,975,Perimeter Black Dark Red,2017
+976,976,Ottosoldi Barbera,2016
+977,977,Gruet Brut Rose,NV
+978,978,Rayun Sauvignon Blanc,2018
+979,979,Maturo Montepulciano d'Abruzzo,2017
+980,980,le Petit Silex Sancerre,2018
+981,981,Menage A Trois Silk,
+982,982,Fess Parker Pinot Noir,2015
+983,983,Chateau Peyrabon Bordeaux,2016
+984,984,Andrea Felici Verdicchio,2018
+985,985,Zuccardi Concreto Malbec,2017
+986,986,Santa Julia Reserve Mountain Blend,2017
+987,987,Mark West Black Pinot Noir,2016
+988,988,La Cattura Tuscan Red,2016
+989,989,Las Cartas Red Blend,2015
+990,990,Shaw & Smith Sauvignon Blanc,2018
+991,991,Black Cabra Malbec,2017
+992,992,William Hill North Coast Chardonnay,2016
+993,993,Vina Carmen Grand Reserve Cabernet Sauvignon,2016
+994,994,Bob's Chenin Blanc,
+995,995,Bob's Pinotage,
+996,996,Bloem Red Blend,
+997,997,Remhoogte Bushvine Pinotage,2016
+998,998,Remhoogte Honeybunch Chenin Blanc,2016
+999,999,Gigognan Cotes du Rhone,2017
+1000,1000,Mondavi Bourbon Barrel Cabernet Sauvignon,2016
+1001,1001,Josh Pinot Noir,
+1002,1002,Antiche Terre Venete Amarone,2015
+1003,1003,Z. Alexander Brown Uncaged Cabernet Sauvignon,2016
+1004,1004,Collina dei Lecci Brunello di Montalcino,2013
+1005,1005,Lecciaia Brunello di Montalcino,2013
+1006,1006,Gnarly Head 1924 Double Black Red Blend,
+1007,1007,Flueriet Sancerre,2017
+1008,1008,Clos de la Roilette Tardive Fleurie,2018
+1009,1009,1865 Single Vineyard Sauvignon Blanc,2017
+1010,1010,Raat's Red Jasper,2015
+1011,1011,Araucano Cabernet Sauvignon,2015
+1012,1012,Orin Swift Palermo,2016
+1013,1013,Orin Swift Machete,2016
+1014,1014,Begonia Sangria,
+1015,1015,"Charles Smith ""Cs"" Substance Cabernet Sauvignon",2017
+1016,1016,Underwood Rose,2018
+1017,1017,Fritz Fisk Riesling,2016
+1018,1018,Lote 44 Malbec,2018
+1019,1019,Chateau Thivin Broiully Reverdon,2017
+1020,1020,Tonel 46 Reserve Malbec,2016
+1021,1021,Dreaming Tree Sauvignon Blanc,2016
+1022,1022,Lagar da Condesa Albarino,2016
+1023,1023,Ravage Cabernet Sauvignon,2016
+1024,1024,Intrinsic Cabernet Sauvignon,2016
+1025,1025,Quinta Do Portal Rose,2018
+1026,1026,Route Stock Cabernet Sauvignon,2016
+1027,1027,Folium Sauvignon Blanc,2018
+1028,1028,Lyle Thomas Oregon Pinot Noir,2017
+1029,1029,Casas del Bosque Reserve Cabernet Sauvignon,2017
+1030,1030,1865 Single Vineyard Pinot Noir,2018
+1031,1031,Daou The Pessimist Red Blend,2017
+1032,1032,Boschendal The Rose Garden,2018
+1033,1033,A List Chardonnay,
+1034,1034,Quiet Resolve Hanna's Sauvignon Blanc,
+1035,1035,Josh Merlot,
+1036,1036,Black Cabra Cabernet Sauvignon,2018
+1037,1037,Dark Horse Pinot Noir,
+1038,1038,Chalk Hill Sonoma Coast Pinot Noir,2017
+1039,1039,1000 Stories Bourbon Barrel Aged Zinfandel,2016
+1040,1040,Cune Gran Reserva Rioja,2010
+1041,1041,Jaboulet Petite Chapelle Hermitage,2010
+1042,1042,Terracoppa Morellino di Scansano,2016
+1043,1043,Apothic Inferno,
+1044,1044,Domaine Lafage Narassa Red,2016
+1045,1045,Zenato Alanera,2015
+1046,1046,The Seeker Pinot Noir,
+1047,1047,Farnetella Lucilla Toscana Rosso,2017
+1048,1048,High Valley Sauvignon Blanc,2018
+1049,1049,Hewitson Miss Harry Red Blend,2016
+1050,1050,Dark Horse Sauvignon Blanc,
+1051,1051,Tapiz Alta Collection Cabernet Sauvignon,2015
+1052,1052,Best's Great Western Shiraz,2016
+1053,1053,Bodegas Ego Fuerza Red,2015
+1054,1054,Wagner Dry Riesling,2016
+1055,1055,Arboleda Chardonnay,2017
+1056,1056,Beckmen Cuvee le Bec,2016
+1057,1057,Boen Pinot Noir,2017
+1058,1058,Paxis Red Blend,2013
+1059,1059,Tilia Uxmal Malbec,2015
+1060,1060,Smith & Hook Proprietary Red,2016
+1061,1061,Line 39 Sauvignon Blanc,
+1062,1062,Line 39 Pinot Noir,
+1063,1063,Elio Perrone Tasmorcan Barbera,2017
+1064,1064,Aeris Pinot Noir,2017
+1065,1065,Patz & Hall Sonoma Coast Chardonnay,2016
+1066,1066,152 Pinot Grigio,
+1067,1067,Colonia Las Liebres Bonarda,2018
+1068,1068,Daou Reserve Cabernet Sauvignon,2016
+1069,1069,Domaine Gueneau Sancerre Rouge,2018
+1070,1070,Domus Aurea Cabernet Sauvignon,2014
+1071,1071,Duckhorn Chardonnay,2017
+1072,1072,Line 39 Cabernet Sauvignon,
+1073,1073,Atalon Sauvignon Blanc,2016
+1074,1074,Bousquet Cameleon Malbec,2018
+1075,1075,Escarlata Red Blend,2014
+1076,1076,Sanama Cabernet Sauvignon,2014
+1077,1077,Kermit Lynch Cotes du Rhone Cypress,2015
+1078,1078,Terenzi Morellino di Scansano,2016
+1079,1079,La Crema Monterey Chardonnay,2016
+1080,1080,Astrolabe Sauvignon Blanc,2018
+1081,1081,Cooper & Thief Red Blend,2016
+1082,1082,Anjos Vinho Verde Rose,2018
+1083,1083,Marietta Game Trail Cabernet Sauvignon,2015
+1084,1084,19 Crimes The Banished Red,
+1085,1085,Julia James Chardonnay,2016
+1086,1086,Duckhorn Decoy Rose,2018
+1087,1087,Charlet Beaujolais Villages,2017
+1088,1088,Block 831 Chalk Hill Cabernet Sauvignon,2015
+1089,1089,Daou Vineyards Chardonnay,2018
+1090,1090,Butter Chardonnay,2017
+1091,1091,Chateau Malbec Bordeaux,2015
+1092,1092,Rombauer Sauvignon Blanc,2017
+1093,1093,Zorzal Grand Terrior Malbec,2015
+1094,1094,Line 39 Chardonnay,
+1095,1095,Encore Pinot Noir,2017
+1096,1096,Chateau d'Yquem Sauternes 2006,
+1097,1097,Vasse Felix Chardonnay,2017
+1098,1098,Finca Wolffer Rose,2018
+1099,1099,Dog Point Section 94 Sauvignon Blanc,2016
+1100,1100,Tonel 46 Reserve Cabernet Sauvignon,2016
+1101,1101,Norfolk Rise Shiraz,2016
+1102,1102,Sixto Uncovered Chardonnay,2015
+1103,1103,Chateau Saint Roch Vieilles Vignes Blanc,2016
+1104,1104,Barville Cotes du Rhone Blanc,2017
+1105,1105,Fly By Sauvignon Blanc,2017
+1106,1106,Shaw & Smith Shiraz,2015
+1107,1107,Dark Horse Double Down Red Blend,
+1108,1108,Sandhi Santa Barbara Chardonnay,2016
+1109,1109,Bousquet Cameleon Chardonnay,2018
+1110,1110,Giovanni Rocca Barbera,2017
+1111,1111,Dog Point Pinot Noir,2016
+1112,1112,Jaboulet Secret Syrah,2015
+1113,1113,Chateau Bois Malot Bordeaux Blanc,2018
+1114,1114,Santa Isle Grand Reserve Pinot Noir,2016
+1115,1115,La Spinetta Nebbiolo,2015
+1116,1116,Mollydooker Carnival Of Love,2017
+1117,1117,Gnarly Head 1924 Double Black Cabernet Sauvignon,
+1118,1118,Villa San Juliette Chorum Red Blend,2014
+1119,1119,Feudo Montoni Nero d'Avola Lagnusa,2016
+1120,1120,Tensley Santa Barbara Syrah,2018
+1121,1121,Ruffino Il Ducale Pinot Grigio,2017
+1122,1122,Tarima Hill Old Vines Red,2016
+1123,1123,Resonance Willamette Valley Pinot Noir,2016
+1124,1124,Andretta Brunello di Montalcino,2013
+1125,1125,Gianfranco Alessandria Barolo,2015
+1126,1126,Gnarly Head Sauvignon Blanc,
+1127,1127,Fitvine Cabernet Sauvignon,
+1128,1128,Fitvine Chardonnay,
+1129,1129,19 Crimes Chardonnay,
+1130,1130,19 Crimes The Uprising,
+1131,1131,Barville Chateauneuf du Pape,2016
+1132,1132,Neveu Sancerre Embouffants,2017
+1133,1133,Giapoza Pinot Noir,2016
+1134,1134,Alchemist Pinot Noir,2016
+1135,1135,Austin Hope Cabernet Sauvignon,2017
+1136,1136,Campomaggio Chianti Classico Riserva,2013
+1137,1137,Kendall Jackson Rose,2018
+1138,1138,Postales Malbec-Cabernet Sauvignon,2017
+1139,1139,Castano Alcaria,2016
+1140,1140,G.D. Vajra Albe Barolo,2014
+1141,1141,Colossal Reserva Red,2014
+1142,1142,Roco Gravel Road Pinot Noir,2016
+1143,1143,Chateau Toutigeac White Bordeaux,2018
+1144,1144,Ayres Willamette Pinot Noir,2017
+1145,1145,Clonakilla Hilltops Shiraz,2016
+1146,1146,Bird In Hand Shiraz,2016
+1147,1147,Bird In Hand Sparkling Rose,2018
+1148,1148,Tait Border Crossing Shiraz,2015
+1149,1149,Bleasdale Broadside Red,
+1150,1150,Altocedro Ano Cero Cabernet Sauvignon,2017
+1151,1151,Altocedro La Consulta Select Red Blend,2015
+1152,1152,Piattelli Reserve Cabernet Sauvignon,2016
+1153,1153,Chateau de Ribebon Bordeaux,2015
+1154,1154,Raeburn Russian River Pinot Noir,2016
+1155,1155,Vina Zorzal Malayeto,2016
+1156,1156,Dos Almas Grand Reserve Cabernet Sauvignon,2016
+1157,1157,Dos Almas Grand Reserve Carmenere,2015
+1158,1158,Dos Almas Grand Reserve Pinot Noir,2015
+1159,1159,Dos Almas Grand Reserve Red Blend,2015
+1160,1160,La Crema Monterey Pinot Noir,2017
+1161,1161,Intrinsic Red Blend,2017
+1162,1162,Mocali Brunello di Montalcino,2013
+1163,1163,Uccelliera Brunello di Montalcino,2013
+1164,1164,Beringer Brother's Bourbon Barrel Aged Cabernet Sauvignon,2016
+1165,1165,Beringer Brothers Bourbon Barrel Red Blend,
+1166,1166,Capraia Gran Selezione #55,2014
+1167,1167,Capraia Chianti Classico Riserva,2013
+1168,1168,Manapetra Brunello di Montalcino,2012
+1169,1169,Sabeo Rueda Verdejo,
+1170,1170,Sabeo Albarino,
+1171,1171,Dr. Fischer Steinbock Riesling,2018
+1172,1172,Apothic Brew,
+1173,1173,Emancipation Red,2015
+1174,1174,Gramercy Lower East Cabernet Sauvignon,2015
+1175,1175,Fondreche Ventoux Rouge,2016
+1176,1176,Pot de Vin Pay d'Oc Merlot,2016
+1177,1177,Bacchus Cabernet Sauvignon,2015
+1178,1178,Capraia Chianti Classico,2016
+1179,1179,Castellani Chianti Classico Riserva,2012
+1180,1180,Pra Soave Otto,2018
+1181,1181,Aromas Das Castas Vinho Verde,
+1182,1182,La Bete Noire Cahors,2015
+1183,1183,Proemio Red Blend,2017
+1184,1184,Casa Americo Reserva Red,2012
+1185,1185,Champy Volnay Premier Cru Taillpieds,2012
+1186,1186,Clou de Pin Bordeaux Superior,2016
+1187,1187,Luna Single Vineyard Malbec,2015
+1188,1188,Garage Wine Company Lot #43 Cabernet Franc,2013
+1189,1189,El Enemigo Chardonnay,2017
+1190,1190,Venus La Universal Dido Montsant,2017
+1191,1191,Black Kite Soberanes Pinot Noir,2014
+1192,1192,Urgency Cabernet Sauvignon,2017
+1193,1193,Norfolk Rise Pinot Noir,2017
+1194,1194,Norfolk Rise Sauvignon Blanc,2017
+1195,1195,Calcu Reserva Especial Carmenere,2014
+1196,1196,Cave L'Aurance Vintage Cremant,2014
+1197,1197,La Cabriole Saumur Chenin Blanc,2018
+1198,1198,Quinta Do Cabriz Dao White,
+1199,1199,Buck Shack Cabernet Sauvignon,2017
+1200,1200,Terre da Vino Barolo,2015
+1201,1201,Chapelle d'Alienor Bordeaux,2016
+1202,1202,Dominus Napanook,2015
+1203,1203,Sutherland Pinot Noir,2014
+1204,1204,Left Coast Latitude #45 Pinot Noir,2015
+1205,1205,Santa Cortina Pinot Grigio,2018
+1206,1206,Baica Barricado Monastrell,2015
+1207,1207,Eradus Sauvignon Blanc,2018
+1208,1208,Bird In Hand Rose,2018
+1209,1209,Nieto Benjamin Select Malbec,2017
+1210,1210,Ron Rubin Russian River Pinot Noir,2016
+1211,1211,Mullan Road Red,2015
+1212,1212,Prospector Chardonnay,
+1213,1213,Prospector Cabernet Sauvignon,
+1214,1214,Prospector Pinot Noir,
+1215,1215,Dos Almas Grand Reserve Sauvignon Blanc,2018
+1216,1216,Tyrrell's Hunter Valley Shiraz,2017
+1217,1217,Quinta da Lixa Pouco Comum Alvarinho,2018
+1218,1218,Vins de Vienne Les Barcillants Cornas,2014
+1219,1219,G-11 Cabernet Sauvignon,2014
+1220,1220,La Bruja de Rozas Comando G,2017
+1221,1221,Casa Castillo Vino de Finca,2016
+1222,1222,Wapisa Patagonia Malbec,2017
+1223,1223,Introvert Cabernet Sauvignon,2017
+1224,1224,Merieau Hexagonals Sauvignon Blanc,2018
+1225,1225,Proemio Reserve Cabernet Sauvignon,2016
+1226,1226,Proemio Barrel Selection Mendoza Red,2011
+1227,1227,Matias Riccitelli Hey Malbec,2017
+1228,1228,Matias Riccitelli The Party Malbec,2017
+1229,1229,Lauverjat Menetou Salon,2017
+1230,1230,Merayo Mencia Bierzo,2017
+1231,1231,Vina Zorzal Garnacha Navarra,2017
+1232,1232,Vina Zorzal Graciano Navarra,2016
+1233,1233,Octopoda Russian River Chardonnay,2018
+1234,1234,Fly By Zinfandel,
+1235,1235,Tiberio Montepulciano,2016
+1236,1236,J. Christopher Pinot Noir Volcanique,2015
+1237,1237,Jets Uncorked Red Blend,
+1238,1238,Arnaldo Rivera Ravera Barolo,2015
+1239,1239,Lungo Il Fiume Montepulciano d'Abruzzo,2016
+1240,1240,Lungo Il Fiume Pinot Grigio,2016
+1241,1241,Suvali Chardonnay,2017
+1242,1242,Suvali Pinot Noir,2017
+1243,1243,Clos des Lunes Bordeaux Blanc,2016
+1244,1244,San Felipe Cabernet Sauvignon,2017
+1245,1245,San Felipe Malbec,2017
+1246,1246,Empezar Cabernet Sauvignon,2017
+1247,1247,Empezar Malbec,2017
+1248,1248,Empezar Red Blend,2017
+1249,1249,Lalama Ribeira Sacra,2014
+1250,1250,Dr. Loosen Dry Riesling,2017
+1251,1251,Thistledown Grenache Thorny Devil,2016
+1252,1252,Vasse Felix Filius Cabernet Sauvignon,2015
+1253,1253,Kloof Street Swartland Red,2017
+1254,1254,Kloof Street Chenin Blanc,2018
+1255,1255,Block 924 Howell Mountain Cabernet Sauvignon,2016
+1256,1256,Block 212 Oakville Cabernet Sauvignon,2016
+1257,1257,Sc Pannell Basso Grenache,2017
+1258,1258,Block 220 Red Mountain Cabernet Sauvignon,2014
+1259,1259,Block 218 Horse Haven Hills Cabernet Sauvignon,2015
+1260,1260,Zorzal Eggo Tinto de Tiza,2016
+1261,1261,Casa Natal Reserve Malbec,2013
+1262,1262,Greenhough Pinot Noir,2015
+1263,1263,Clos Henri Pinot Noir,2017
+1264,1264,Octopoda North Coast Cabernet Franc,2017
+1265,1265,Block 211 Oakville Red Blend,2017
+1266,1266,Single Lot #58 Napa Cabernet Sauvignon,2016
+1267,1267,Single Lot #54 Oakville Merlot,2017
+1268,1268,Quinta Das Setencostas Red,2013
+1269,1269,Nalys Chateauneuf du Pape Grand Vin,2016
+1270,1270,Colene Clemens Dopp Creek Pinot Noir,2017
+1271,1271,Fitvine Prosecco,NV
+1272,1272,Brotte Cotes du Rhone Village Cairanne,2016
+1273,1273,Eguren Ugarte Rioja,2016
+1274,1274,Marco & Vittorio Adriano Bassarin Barbaresco,2015
+1275,1275,Z. Alexander Brown Uncaged Chardonnay,2016
+1276,1276,Fin del Mundo Red Blend,2017
+1277,1277,Renieri Brunello di Montalcino,2013
+1278,1278,Block 504 Reserve Cabernet Sauvignon,2016
+1279,1279,La Posta Glorieta Pinot Noir,2017
+1280,1280,Chono Single Vineyard Syrah,2016
+1281,1281,Pierre Levee Cotes de Castillon Bordeaux,2016
+1282,1282,Coustaut La Grangeotte Bordeaux,2016
+1283,1283,Chamaille Cotes de Blaye Bordeaux,2015
+1284,1284,Chateau Saint Roch Roubials,2016
+1285,1285,Sierra de Tolono White Rioja,2018
+1286,1286,Sarah's Vineyard Pinot Noir,2017
+1287,1287,Smith & Sheth Cru Sauvignon Blanc,2017
+1288,1288,Giant Steps Pinot Noir,2018
+1289,1289,Cantine Valpane Barbera,2015
+1290,1290,Manoir Firetiere Chardonnay,2017
+1291,1291,Eguren Ugarte Cincuenta Rioja,2015
+1292,1292,Tensley Fundamental Red Blend,2017
+1293,1293,Block 538 Russian River Pinot Noir,2017
+1294,1294,Block 556 Russian River Reserve Pinot Noir,2016
+1295,1295,Single Lot #28 Napa Valley Sauvignon Blanc,2017
+1296,1296,Octopoda Russian River Pinot Noir,2017
+1297,1297,Red Domus Cotes du Roussillon Villages,2015
+1298,1298,Cambon La Pelouse Haut Medoc Bordeaux,2016
+1299,1299,Blancat Parcel Selection Malbec,2017
+1300,1300,Garage Wine Company B.C. Pais,2017
+1301,1301,Norfolk Rise Cabernet Sauvignon,2016
+1302,1302,Rudius Savory Cabernet Sauvignon,2014
+1303,1303,Masion Castel Grand Reserve Cabernet Sauvignon,2016
+1304,1304,Masion Castel Grand Reserve Chardonnay,2017
+1305,1305,Perro Callejero Malbec,2017
+1306,1306,Domaine Lafond Chateauneuf du Pape,2016
+1307,1307,Bruno Colin Bourgogne Blanc,2015
+1308,1308,Tercos Torrontes,2017
+1309,1309,Arrowood Knights Valley Cabernet Sauvignon,2015
+1310,1310,Kim Crawford Signature Reserve Sauvignon Blanc,2017
+1311,1311,Virna Barolo,2013
+1312,1312,Eradus Pinot Noir,2016
+1313,1313,Dos Almas Brut,NV
+1314,1314,Louis Riesling Rheinhessen,2018
+1315,1315,Gen de Alma Ji Ji Ji Chenin Blanc,2018
+1316,1316,Mcnab Ridge Zinfandel,2016
+1317,1317,Domaine Raimbault Pineau Sancerre,2018
+1318,1318,Urgency Sauvignon Blanc,2018
+1319,1319,Ceppaiano Violetta Rosso,2012
+1320,1320,Chateau Ste Michelle Red Mountain Cabernet Sauvignon,2016
+1321,1321,Dr. G Dry Riesling,2017
+1322,1322,Urgency Pinot Noir,2018
+1323,1323,Quinta da Lixa Pouco Comum Rose,2018
+1324,1324,Quinta Do Ataide Douro,2015
+1325,1325,Block 665 Diamond Mountain Reserve Cabernet Sauvignon,2017
+1326,1326,Apaltagua Granate,NV
+1327,1327,Adorn Pinot Noir,2017
+1328,1328,Rudius Farella Cabernet Sauvignon,2014
+1329,1329,Josh Sonoma Reserve Chardonnay,2017
+1330,1330,Josh Lodi Reserve Cabernet Sauvignon,2017
+1331,1331,Francis Coppola Diamond Collection Golden Tier Oregon Pinot Noir,2017
+1332,1332,Espino Reserva Especial Chardonnay,2018
+1333,1333,Espino Reserva Especial Cabernet Sauvignon,2017
+1334,1334,Espino Reserva Especial Carmenere,2017
+1335,1335,Three Clicks Napa Valley Sauvignon Blanc,2016
+1336,1336,Folenvie Rose de France,2018
+1337,1337,Long Valley Ranch Chardonnay,2017
+1338,1338,Long Valley Ranch Pinot Noir,2016
+1339,1339,Suvali Cabernet Sauvignon,2016
+1340,1340,Pepiere Monnieres Fiacre Muscadet,2015
+1341,1341,Fragas Do Lecer Corvo Godello,2017
+1342,1342,Vaglio Aggie Malbec,2017
+1343,1343,Morande Grand Reserve Cabernet Sauvignon,2015
+1344,1344,Mancura Sauvignon Blanc,2018
+1345,1345,Mancura Cabernet Sauvignon,2018
+1346,1346,Route Stock Pinot Noir,2017
+1347,1347,Burgo Viejo Rioja Crianza,2016
+1348,1348,La Casa In Collina Barbaresco,2015
+1349,1349,Grgich Hills Cellars Blue Beret Chardonnay,2016
+1350,1350,Espiritu de Chile Reserve Chardonnay,2017
+1351,1351,Espiritu de Chile Reserve Sauvignon Blanc,2018
+1352,1352,Espiritu de Chile Assemblage Red Blend,2016
+1353,1353,Block 221 Oakville Reserve Cabernet Sauvignon,2017
+1354,1354,Malacara Oak Cask Red Blend,2016
+1355,1355,Los Haroldos Reserve Malbec,2015
+1356,1356,Los Haroldos Estate Red Blend,2016
+1357,1357,Las Huertas Chardonnay,2018
+1358,1358,Lapalu Vieilles Vignes Beaujolais-Villages,2017
+1359,1359,Menage A Trios Bourbon Cabernet Sauvignon,
+1360,1360,Iris Mendoza Malbec,2017
+1361,1361,Juggernaut Pinot Noir,2016
+1362,1362,Breca Vino de Espana Rose,2018
+1363,1363,Sierra de la Demanda Rioja,2014
+1364,1364,Sierra de la Demanda Rioja Blanco,2015
+1365,1365,Calma Crianza Rioja,2013
+1366,1366,Ancient Peaks Merlot,2016
+1367,1367,La Lecciaia Sangiovese Toscana,2015
+1368,1368,Wapisa Patagonia Sauvignon Blanc,2018
+1369,1369,Montes Purple Angel,2016
+1370,1370,Domaine Ferrando Colombis Chateauneuf du Pape,2017
+1371,1371,Castellare Poggio Al Merli,2013
+1372,1372,Zuni Amarone,2015
+1373,1373,Javerniere Morgon Cote du Py,2017
+1374,1374,Hart & Mcgarry Reserve Pinot Noir,2017
+1375,1375,Navigator Napa Valley Cabernet Sauvignon,2016
+1376,1376,Kurtz Family Vineyards Barossa Shiraz,2015
+1377,1377,Diatom Bar-M Chardonnay,2018
+1378,1378,Quinta da Aveleda Loureiro,2018
+1379,1379,Felipe Staiti Vertigo Red Blend,2015
+1380,1380,Chateau Gaillot Fournier Bordeaux,2015
+1381,1381,Font de Joubert Cotes du Rhone,2016
+1382,1382,La Fourmone le Secret Gigondas,2016
+1383,1383,le Peche de Neyrat Sauvignon Blanc,2018
+1384,1384,Silver Palm Sauvignon Blanc,2016
+1385,1385,Mon Frere Cabernet Sauvignon,2017
+1386,1386,Mon Frere Chardonnay,2017
+1387,1387,Mon Frere Pinot Noir,2017
+1388,1388,Kangarilla Road Shiraz,2016
+1389,1389,Kangarilla Road Chardonnay,2018
+1390,1390,Kangarilla Road Rose,2018
+1391,1391,Vieux Telegraphe Chateauneuf du Pape Blanc,2016
+1392,1392,La Crema Yamhill Carlton Pinot Noir,2015
+1393,1393,Petrolo Boggina A,2016
+1394,1394,Petrolo Boggina B,
+1395,1395,Valle Reale Trebbiano,2018
+1396,1396,Moccagatta Barbaresco Bric Balin,2016
+1397,1397,Rapaura Springs Reserve Sauvignon Blanc,2018
+1398,1398,Rolet Arbois Chardonnay,2015
+1399,1399,Pierre Girardin Bourgogne Blanc,2017
+1400,1400,Pierre Girardin Pommard,2017
+1401,1401,Jean Milan Symphorine Blanc de Blancs Grand Cru Brut,2013
+1402,1402,Thread Count Napa Valley Cabernet Sauvignon,2017
+1403,1403,Thread Count Santa Maria Chardonnay,2018
+1404,1404,Thread Count Santa Maria Pinot Noir,2017
+1405,1405,Thread Count Sonoma Red Blend,2016
+1406,1406,Shannon Ridge Circle O Cabernet Sauvignon,2016
+1407,1407,Anko Torrontes,2017
+1408,1408,Piattelli Trinita Grand Reserve Red,2015
+1409,1409,Kuhnel Moulin-A-Vent,2015
+1410,1410,Sans Liege The Offering Red,2016
+1411,1411,Gen del Alma Ji Ji Ji Red,2018
+1412,1412,Jas du Lauzon Luberon White,2017
+1413,1413,Decibel Sauvignon Blanc,2017
+1414,1414,Stone Paddock Hawk's Bay Sauvignon Blanc,2017
+1415,1415,Stone Paddock Hawk's Bay Chardonnay,2016
+1416,1416,Giant Steps Chardonnay,2017
+1417,1417,Vite Colte Moscato d'Asti La Gatta,2017
+1418,1418,Marquis d'Alesme Margaux,2016
+1419,1419,Thomas Labaille Sancerre Rose,2018
+1420,1420,Los Bocheros Cabernet Sauvingon,2018
+1421,1421,Los Bocheros Malbec,2018
+1422,1422,Los Bocheros Red Blend,2018
+1423,1423,Wapisa Patagonia Pinot Noir,2017
+1424,1424,Amalgama Red Blend,2017
+1425,1425,Marco & Vittorio Adriano Bassarin Sanadaive Barbaresco,2016
+1426,1426,Cloud Cove Sauvignon Blanc,2018
+1427,1427,Gran Sasso Sangiovese,2017
+1428,1428,Marcoux Chateauneuf du Pape,2013
+1429,1429,Aplanta Red Blend,2018
+1430,1430,Block 205 Red Mountain Cabernet Sauvignon,2016
+1431,1431,Block 1031 Walla Walla Cabernet Sauvignon,2016
+1432,1432,Block 043 Napa Valley Fume Blanc,2018
+1433,1433,Alpha Box & Dice Tarot Grenache,2018
+1434,1434,Quinta Dos Murcas Minas,2016
+1435,1435,Quinta Dos Murcas Margem,2017
+1436,1436,Guido Porro Gianetto Barolo,2013
+1437,1437,Josh Lodi Zinfandel,2018
+1438,1438,Clos de Napa Cabernet Sauvignon,2017
+1439,1439,Penfolds Max's Shiraz,2016
+1440,1440,Trisaetum Willamette Chardonnay,2016
+1441,1441,Trisaetum Ribbon Ridge Pinot Noir,2017

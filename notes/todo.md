@@ -15,3 +15,7 @@
 similar meaning words (ex: floral & flowers). Take top 100(?) groups and add them as a descriptive attribute
 
 ## Catch tasting notes or reviews with words from this site: https://wine.lovetoknow.com/wine-beginners/wine-characteristics-glossary
+
+## Region-Country pairing seems off in later entries. Check and clean for data accuracy
+
+## Some varieties have extra characters. Clean entries.

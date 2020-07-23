@@ -1,8 +1,6 @@
 import requests
-from bs4 import BeautifulSoup, element
+from bs4 import BeautifulSoup
 import re
-import time
-import pandas as pd
 
 
 url = 'https://wine.lovetoknow.com/wine-beginners/wine-characteristics-glossary'

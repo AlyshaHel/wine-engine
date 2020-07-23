@@ -1,0 +1,132 @@
+,RegionID,RegionDesc,CountryID
+0,0,Cuyo,0
+1,1,Piedmont,1
+2,2,Burgundy,2
+3,3,Western Cape,3
+4,4,California,4
+5,5,Veneto,1
+6,6,South Eastern Australia,5
+7,7,Catalunya,6
+8,8,Friuli-Venezia Giulia,1
+9,9,Marlborough,7
+10,10,Languedoc Roussillon,2
+11,11,Languedoc Roussillon,3
+12,12,Oregon,4
+13,13,Pfalz,8
+14,14,Port,9
+15,15,Duriense,9
+16,16,Bordeaux,2
+17,17,Trentino-Alto Adige,1
+18,18,Sicily,1
+19,19,Loire,2
+20,20,Loire,9
+21,21,Jerez - Xeres - Sherry,6
+22,22,Tuscany,1
+23,23,Umbria,1
+24,24,Rioja,6
+25,25,Castilla Y Leon,6
+26,26,Washington,4
+27,27,Rhone,2
+28,28,California,5
+29,29,Mosel-Saar-Ruwer,8
+30,30,Galilee,10
+31,31,Rhone,11
+32,32,California,1
+33,33,South Australia,5
+34,34,New Jersey,4
+35,35,Wairarapa,7
+36,36,California,3
+37,37,Victoria,5
+38,38,California,7
+39,39,Terras Madeirenses,9
+40,40,Aragon,6
+41,41,Port,2
+42,42,Castilla La Mancha,6
+43,43,Cuyo,5
+44,44,Alentejano,9
+45,45,Alentejano,3
+46,46,California,6
+47,47,Valle Central,11
+48,48,Campania,1
+49,49,Alsace,2
+50,50,Abruzzo,1
+51,51,Galicia,6
+52,52,Tuscany,9
+53,53,Veneto,5
+54,54,Tuscany,0
+55,55,Rheinhessen,8
+56,56,California,2
+57,57,New Mexico,4
+58,58,Jumilla,6
+59,59,New York,4
+60,60,Burgundy,1
+61,61,California,11
+62,62,Minho,9
+63,63,Piedmont,8
+64,64,Hawkes Bay,7
+65,65,Burgundy,5
+66,66,Washington,0
+67,67,Washington,9
+68,68,California,0
+69,69,Loire,1
+70,70,Piedmont,0
+71,71,Terras Do Dao,9
+72,72,Terras Do Dao,6
+73,73,California,9
+74,74,Valle Central,1
+75,75,Provence,2
+76,76,Catalunya,5
+77,77,Rioja,11
+78,78,Duriense,1
+79,79,Coastal Region,3
+80,80,Washington,6
+81,81,Languedoc Roussillon,12
+82,82,Rhone,9
+83,83,Champagne,2
+84,84,Marche,1
+85,85,Victoria,6
+86,86,Jumilla,2
+87,87,Maule,11
+88,88,Maule,0
+89,89,Casablanca,11
+90,90,Apulia,1
+91,91,Languedoc Roussillon,6
+92,92,Southern Region,0
+93,93,Lisboa,9
+94,94,Cuyo,6
+95,95,New Mexico,11
+96,96,Bordeaux,1
+97,97,Valle Central,3
+98,98,Casablanca,3
+99,99,Oregon,8
+100,100,West Australia,5
+101,101,Veneto,2
+102,102,Rhone,1
+103,103,Bordeaux,5
+104,104,Bordeaux,0
+105,105,Marlborough,2
+106,106,Bordeaux,11
+107,107,Valencia,6
+108,108,Southern Region,6
+109,109,Piedmont,9
+110,110,Andean North West,0
+111,111,Navarra,6
+112,112,Navarra,11
+113,113,Tuscany,6
+114,114,Mosel-Saar-Ruwer,4
+115,115,South West France,2
+116,116,Cuyo,11
+117,117,Oregon,1
+118,118,Marlborough,5
+119,119,Casablanca,5
+120,120,Loire,6
+121,121,Cuyo,8
+122,122,South Australia,3
+123,123,Cuyo,7
+124,124,Coquimbo,11
+125,125,Rheinhessen,0
+126,126,Washington,8
+127,127,Oregon,11
+128,128,Southern Region,11
+129,129,Jura,2
+130,130,Piedmont,7
