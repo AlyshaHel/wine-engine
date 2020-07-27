@@ -1,4 +1,5 @@
 import pandas as pd
+import re
 from helpers import common_words
 
 
@@ -76,6 +77,28 @@ def _create_winename_table(to_csv=False):
         df_winename.to_csv('./data/winename_table.csv')
 
 
+def _create_color_relationship_table(to_csv=False):
+    df = pd.read_csv('./data/wine_full_char.csv', encoding="ISO-8859-1")
+    df_name = pd.read_csv('./data/winename_table.csv', encoding="ISO-8859-1")[['WineID', 'WineDesc']]
+    df_color = pd.read_csv('./data/color_table.csv', encoding="ISO-8859-1")
+
+    df_color_relationship = pd.DataFrame(columns=['WineID', 'ColorID'])
+    for index, row in df[['Name', 'Colors']].iterrows():
+        if type(row['Colors']) is not float:
+            wines_with_color = df_name.loc[df_name['WineDesc'] == row['Name']]
+            wine_id = wines_with_color['WineID'].to_numpy()[0]
+            color_list = re.sub("[^\w]", " ",  row['Colors']).split()
+            for color in color_list:
+                color_id = df_color.loc[df_color['ColorDesc'] == color]['ColorID'].to_numpy()[0]
+                df_color_relationship = df_color_relationship.append(
+                    {'WineID': wine_id, 'ColorID': color_id}, ignore_index=True
+                )
+    df_color_relationship['CRelationshipID'] = df_color_relationship.index
+    df_color_relationship = df_color_relationship[['CRelationshipID', 'WineID', 'ColorID']]
+    if to_csv:
+        df_color_relationship.to_csv('./data/color_relationpships_table.csv')
+
+
 def _compare_add_desc(to_csv=False):
     df = pd.read_csv('./data/wine_full.csv', encoding="ISO-8859-1")
     df['ComboDesc'] = df['TastingNotes'].astype(str) + ' ' + df['Review'].astype(str)
@@ -104,6 +127,5 @@ def _compare_add_desc(to_csv=False):
     if to_csv:
         df.drop(columns='ComboDesc', inplace=True)
         df.to_csv('wine_full_char.csv')
-
 
 
