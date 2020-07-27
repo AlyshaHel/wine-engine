@@ -96,7 +96,29 @@ def _create_color_relationship_table(to_csv=False):
     df_color_relationship['CRelationshipID'] = df_color_relationship.index
     df_color_relationship = df_color_relationship[['CRelationshipID', 'WineID', 'ColorID']]
     if to_csv:
-        df_color_relationship.to_csv('./data/color_relationpships_table.csv')
+        df_color_relationship.to_csv('./data/color_relationships_table.csv')
+
+
+def _create_description_relationship_table(to_csv=False):
+    df = pd.read_csv('./data/wine_full_char.csv', encoding="ISO-8859-1")
+    df_name = pd.read_csv('./data/winename_table.csv', encoding="ISO-8859-1")[['WineID', 'WineDesc']]
+    df_descriptor = pd.read_csv('./data/descriptor_table.csv', encoding="ISO-8859-1")
+
+    df_descriptor_relationship = pd.DataFrame(columns=['WineID', 'DescriptorID'])
+    for index, row in df[['Name', 'Descriptors']].iterrows():
+        if type(row['Descriptors']) is not float:
+            wines_with_descriptor = df_name.loc[df_name['WineDesc'] == row['Name']]
+            wine_id = wines_with_descriptor['WineID'].to_numpy()[0]
+            descriptor_list = re.sub("[^\w]", " ",  row['Descriptors']).split()
+            for descriptor in descriptor_list:
+                descriptor_id = df_descriptor.loc[df_descriptor['DescriptorDesc'] == descriptor]['DescriptorID'].to_numpy()[0]
+                df_descriptor_relationship = df_descriptor_relationship.append(
+                    {'WineID': wine_id, 'DescriptorID': descriptor_id}, ignore_index=True
+                )
+    df_descriptor_relationship['DRelationshipID'] = df_descriptor_relationship.index
+    df_descriptor_relationship = df_descriptor_relationship[['DRelationshipID', 'WineID', 'DescriptorID']]
+    if to_csv:
+        df_descriptor_relationship.to_csv('./data/descriptor_relationships_table.csv')
 
 
 def _compare_add_desc(to_csv=False):
@@ -129,3 +151,4 @@ def _compare_add_desc(to_csv=False):
         df.to_csv('wine_full_char.csv')
 
 
+_create_description_relationship_table(True)

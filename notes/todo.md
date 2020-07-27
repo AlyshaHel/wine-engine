@@ -20,7 +20,7 @@ similar meaning words (ex: floral & flowers). Take top 100(?) groups and add the
 
 ## Some varieties have extra characters. Clean entries.
 
-## Add column for fruits, herbs, and other in noun descriptions in reivew
+## Add column for fruits, herbs, and other in noun descriptions in review
 ### fruit, fruity: coconut, date, prune, raisin, pomegranate, kiwi, guava, mango, pineapple, persimmon, nectarine, quince, marmalade, orange, grapefruit, lime, olive, peach, pear, fig, pineapple, apple, citrus, lemon, berries, berry, raspberry, currant, redcurrant, blackcurrant, strawberry, blackberry, cherry, melon, rhubarb, apricots, boysenberry, blueberries, plum, cranberry
 ### spice, spicy: clove, mint, basil, oregano, pepper, cinnamon, pimentos, nutmeg, lemongrass, ginger, saffron, fennel, anise, cardamom, thyme, dill, ginger
 ### flowery, floral, flower: lilac, hibiscus, rose, lavender, honeysuckle, jasmine, elderflower, peony, iris
