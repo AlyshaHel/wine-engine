@@ -8,13 +8,13 @@
 6,6,Pinotage
 7,7,Zinfandel
 8,8,Merlot
-9,9,"Cabernet Sauvignon,Merlot"
-10,10,Champagne Blend
-11,11,Syrah
-12,12,"Macabeo,Parellada,Xarel.Lo"
-13,13,Pinot Gris
-14,14,Sauvignon Blanc
-15,15,"Syrah,Zinfandel"
+9,9,Champagne Blend
+10,10,Syrah
+11,11,Macabeo
+12,12,Parellada
+13,13,Xarel.Lo
+14,14,Pinot Gris
+15,15,Sauvignon Blanc
 16,16,Bordeaux Blend
 17,17,Red Rhone Blend
 18,18,Cortese
@@ -22,104 +22,69 @@
 20,20,Gewurztraminer
 21,21,Riesling
 22,22,Port Blend
-23,23,"Semillon,Sauvignon Blanc"
-24,24,"Chardonnay,Chenin Blanc,Colombard,Pinot Noir"
-25,25,Prosecco
-26,26,"Merlot,Nero d'Avola"
-27,27,White Italian Blend
-28,28,Chenin Blanc
+23,23,Semillon
+24,24,Chenin Blanc
+25,25,Colombard
+26,26,Prosecco
+27,27,Nero d'Avola
+28,28,White Italian Blend
 29,29,Palomino
 30,30,Sangiovese
 31,31,Tempranillo
 32,32,Verdejo
-33,33,"Chardonnay,Pinot Noir"
-34,34,"Grenache,Syrah"
-35,35,Nebbiolo
-36,36,"Cabernet Sauvignon,Merlot,Sangiovese"
-37,37,Nero d'Avola
-38,38,Non-Varietal White Blend
-39,39,",,Chardonnay"
-40,40,"Grenache,Mourvedre"
-41,41,"Corvina,Rondinella"
-42,42,Trebbiano
-43,43,"Cabernet Sauvignon,Sangiovese"
-44,44,"Canaiolo,Sangiovese"
-45,45,Other Red
-46,46,",,,Zinfandel"
-47,47,"Chenin Blanc,Viognier"
-48,48,Non-Varietal Red Blend
-49,49,Corvina
-50,50,Cabernet Blend
-51,51,Red Italian Blend
-52,52,Other White
-53,53,Madeira Blend
-54,54,Barbera
-55,55,Dolcetto
-56,56,Garnacha
-57,57,"Cabernet Franc,Grenache,Syrah"
-58,58,Red Portugese Blend
-59,59,",,,,Cabernet Sauvignon"
-60,60,",,Pinot Noir"
-61,61,Greco di Tufo
-62,62,Vermentino
-63,63,Cabernet Franc
-64,64,Albarino
-65,65,Molinara
-66,66,Montepulciano
-67,67,",,Cabernet Sauvignon,Malbec"
-68,68,Dornfelder
-69,69,Teroldego
-70,70,"Corvina,Molinara,Rondinella"
-71,71,",,Cabernet Sauvignon"
-72,72,"Cabernet Franc,Cabernet Sauvignon,Merlot"
-73,73,"Cabernet Sauvignon,Merlot,Zinfandel"
-74,74,Mourvedre
-75,75,Falanghina
-76,76,Grenache
-77,77,"Garganega,Pinot Gris"
-78,78,"Bonarda,Malbec"
-79,79,",,,,Chardonnay"
-80,80,Melon de Bourgogne
-81,81,"Merlot,Sangiovese,Syrah"
-82,82,Mencia
-83,83,"Graciano,Mazuelo,Tempranillo"
-84,84,"Cabernet Franc,Cabernet Sauvignon,Malbec,Merlot,Petit Verdot"
-85,85,Bonarda
-86,86,Primitivo
-87,87,Torrontes
-88,88,",,Sangiovese"
-89,89,Semillon
-90,90,Ugni Blanc
-91,91,Touriga Nacional
-92,92,","
-93,93,"Merlot,Zinfandel"
-94,94,"Merlot,Mourvedre,Petit Verdot,Syrah"
-95,95,Friulano
-96,96,"Cabernet Sauvignon,Merlot,Petite Sirah,Zinfandel"
-97,97,Hondarrabi Zuri
-98,98,White Rhone Blend
-99,99,Muscat Of Alexandria
-100,100,Muscat d'Alexandrie
-101,101,Fiano
-102,102,"Cabernet Sauvignon,Syrah"
-103,103,Viognier
-104,104,Kerner
-105,105,Gruner Veltliner
-106,106,",,,Chardonnay"
-107,107,Verdelho
-108,108,Verdicchio
-109,109,Macabeo
-110,110,Carmenere
-111,111,Petit Verdot
-112,112,Negro Amaro
-113,113,Garganega
-114,114,"Grenache,Petite Sirah,Syrah"
-115,115,Canaiolo
-116,116,",,,Sauvignon Blanc"
-117,117,Tannat
-118,118,"Mourvedre,Syrah"
-119,119,Graciano
-120,120,Castelao
-121,121,Viura
-122,122,Godello
-123,123,Moschofilero
+33,33,Grenache
+34,34,Nebbiolo
+35,35,Non-Varietal White Blend
+36,36,Mourvedre
+37,37,Corvina
+38,38,Rondinella
+39,39,Trebbiano
+40,40,Canaiolo
+41,41,Other Red
+42,42,Viognier
+43,43,Non-Varietal Red Blend
+44,44,Cabernet Blend
+45,45,Red Italian Blend
+46,46,Other White
+47,47,Madeira Blend
+48,48,Barbera
+49,49,Dolcetto
+50,50,Garnacha
+51,51,Cabernet Franc
+52,52,Red Portugese Blend
+53,53,Greco di Tufo
+54,54,Vermentino
+55,55,Albarino
+56,56,Molinara
+57,57,Montepulciano
+58,58,Dornfelder
+59,59,Teroldego
+60,60,Falanghina
+61,61,Garganega
+62,62,Bonarda
+63,63,Melon de Bourgogne
+64,64,Mencia
+65,65,Graciano
+66,66,Mazuelo
+67,67,Petit Verdot
+68,68,Primitivo
+69,69,Torrontes
+70,70,Ugni Blanc
+71,71,Touriga Nacional
+72,72,Friulano
+73,73,Hondarrabi Zuri
+74,74,White Rhone Blend
+75,75,Muscat Of Alexandria
+76,76,Muscat d'Alexandrie
+77,77,Fiano
+78,78,Kerner
+79,79,Gruner Veltliner
+80,80,Verdelho
+81,81,Verdicchio
+82,82,Carmenere
+83,83,Negro Amaro
+84,84,Tannat
+85,85,Castelao
+86,86,Viura
+87,87,Godello
+88,88,Moschofilero

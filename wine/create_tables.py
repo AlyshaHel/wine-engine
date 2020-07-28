@@ -58,10 +58,15 @@ def _create_country_table(to_csv=False):
 def _create_variety_table(to_csv=False):
     df = pd.read_csv('./data/wine_full.csv', encoding="ISO-8859-1")
     varieties = df.Variety.unique()
-    df_varieties = pd.DataFrame(varieties, columns=['VarietyDesc'])
+    new_varieties = []
+    for variety in varieties:
+        wine_varieties = variety.split(',')
+        for wine_variety in wine_varieties:
+            if wine_variety and wine_variety not in new_varieties:
+                new_varieties.append(wine_variety)
+    df_varieties = pd.DataFrame(new_varieties, columns=['VarietyDesc'])
     df_varieties['VarietyID'] = df_varieties.index
     df_varieties = df_varieties[['VarietyID', 'VarietyDesc']]
-    print(df_varieties)
     if to_csv:
         df_varieties.to_csv('./data/variety_table.csv')
 
@@ -75,6 +80,34 @@ def _create_winename_table(to_csv=False):
     print(df_winename.head(10))
     if to_csv:
         df_winename.to_csv('./data/winename_table.csv')
+
+
+def _create_variety_relationship_table(to_csv=False):
+    df = pd.read_csv('./data/wine_full_char.csv', encoding="ISO-8859-1")
+    df_name = pd.read_csv('./data/winename_table.csv', encoding="ISO-8859-1")[['WineID', 'WineDesc']]
+    df_variety = pd.read_csv('./data/variety_table.csv', encoding="ISO-8859-1")
+
+    df_variety_relationship = pd.DataFrame(columns=['WineID', 'VarietyID'])
+    for index, row in df[['Name', 'Variety']].iterrows():
+        if type(row['Variety']) is not float and row['Name'] != 'nan' and type(row['Name']) is not float:
+            wine_varieties = row['Variety'].split(',')
+            for wine_variety in wine_varieties:
+                try:
+                    # print(row['Name'], type(row['Name']), row['Variety'], type(row['Variety']))
+                    wines_with_variety = df_name.loc[df_name['WineDesc'] == row['Name']]
+                    wine_id = wines_with_variety['WineID'].to_numpy()[0]
+                    variety_id = df_variety.loc[df_variety['VarietyDesc'] == wine_variety]['VarietyID'].to_numpy()[0]
+                    df_variety_relationship = df_variety_relationship.append(
+                        {'WineID': wine_id, 'VarietyID': variety_id}, ignore_index=True
+                    )
+                except Exception as e:
+                    print(f'!!Exception!! {e} on {row["Name"]} with {wine_variety}')
+                    pass
+    df_variety_relationship['VRelationshipID'] = df_variety_relationship.index
+    df_variety_relationship = df_variety_relationship[['VRelationshipID', 'WineID', 'VarietyID']]
+    print(df_variety_relationship)
+    if to_csv:
+        df_variety_relationship.to_csv('./data/variety_relationships_table.csv')
 
 
 def _create_color_relationship_table(to_csv=False):
@@ -149,6 +182,3 @@ def _compare_add_desc(to_csv=False):
     if to_csv:
         df.drop(columns='ComboDesc', inplace=True)
         df.to_csv('wine_full_char.csv')
-
-
-_create_description_relationship_table(True)
